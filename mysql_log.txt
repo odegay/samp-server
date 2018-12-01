@@ -2401,3 +2401,1204 @@
 [23:31:06] [ERROR] cache_get_field_content_int - invalid datatype
 [23:31:48] [ERROR] CMySQLQuery::Execute[OnPlayerRegisterMysql] - (error #1364) Field 'Exp' doesn't have a default value
 [23:36:24] [ERROR] CMySQLQuery::Execute[OnPlayerRegisterMysql] - (error #1364) Field 'Exp' doesn't have a default value
+[09:01:22] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1')
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1')
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1')
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1')
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1')
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:22] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:22] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Engine")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Shock_absorbers")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Bridge")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Discs")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:01:23] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Wheel")
+[09:01:23] [ERROR] cache_get_field_content_int - invalid datatype
+[09:02:54] [ERROR] CMySQLQuery::Execute[OnPlayerRegisterMysql] - (error #1364) Field 'Exp' doesn't have a default value
