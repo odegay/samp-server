@@ -2,3 +2,61 @@
 [1.12.2018 | 09:02:52] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
 [1.12.2018 | 09:02:53] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
 [1.12.2018 | 09:02:54] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[1.12.2018 | 19:42:30] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list -1| 12345678910
+[1.12.2018 | 19:42:31] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[1.12.2018 | 19:42:32] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[1.12.2018 | 19:42:34] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 2| На порталах/форумах
+[1.12.2018 | 21:57:39] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list -1| 123456
+[1.12.2018 | 21:57:41] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[1.12.2018 | 21:57:42] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[1.12.2018 | 21:57:44] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[1.12.2018 | 22:16:30] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list -1| 123456
+[1.12.2018 | 22:16:31] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[1.12.2018 | 22:16:32] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[1.12.2018 | 22:16:32] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[1.12.2018 | 22:24:01] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 12345
+[1.12.2018 | 22:24:04] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[1.12.2018 | 22:25:00] Kidra_Tanosa(0)[127.0.0.1] cmd /mm
+[1.12.2018 | 22:25:05] Kidra_Tanosa(0)[127.0.0.1] dialog 722 | 1 | list 0| [1] Действие персонажа
+[1.12.2018 | 22:25:07] Kidra_Tanosa(0)[127.0.0.1] dialog 600 | 1 | list 0| [1] Моя статистика
+[1.12.2018 | 22:25:16] Kidra_Tanosa(0)[127.0.0.1] dialog 235 | 0 | list -1| 
+[1.12.2018 | 22:25:34] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:26:36] Kidra_Tanosa(0)[127.0.0.1] dialog 1977 | 1 | list 0| - Кто сейчас стоит на должности: 'Губернатор' ?
+[1.12.2018 | 22:26:41] Kidra_Tanosa(0)[127.0.0.1] dialog 147 | 1 | list 0| - Мужчина
+[1.12.2018 | 22:26:48] Kidra_Tanosa(0)[127.0.0.1] dialog 148 | 1 | list -1| 2/5/1993
+[1.12.2018 | 22:46:03] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[1.12.2018 | 22:46:15] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:46:18] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 2018
+[1.12.2018 | 22:46:57] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:47:01] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 123
+[1.12.2018 | 22:47:07] Kidra_Tanosa(0)[127.0.0.1] cmd /admins
+[1.12.2018 | 22:47:21] Kidra_Tanosa(0)[127.0.0.1] cmd /ban
+[1.12.2018 | 22:47:28] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:47:36] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 123
+[1.12.2018 | 22:47:39] Kidra_Tanosa(0)[127.0.0.1] cmd /ban
+[1.12.2018 | 22:49:37] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:49:38] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 12
+[1.12.2018 | 22:49:41] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:49:47] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[1.12.2018 | 22:49:59] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 9| [10] Активировать PayDay[6]
+[1.12.2018 | 22:50:03] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[1.12.2018 | 22:50:16] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 14| [15] Список админ команд[1]
+[1.12.2018 | 22:50:50] Kidra_Tanosa(0)[127.0.0.1] cmd /jail 0 10
+[1.12.2018 | 22:51:01] Kidra_Tanosa(0)[127.0.0.1] cmd /jail 0 10 Сеолоо
+[1.12.2018 | 22:51:11] Kidra_Tanosa(0)[127.0.0.1] cmd /jail 0 0 Сеолоо
+[1.12.2018 | 22:51:26] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail 0 
+[1.12.2018 | 22:54:08] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail 0
+[1.12.2018 | 22:54:13] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail 0
+[1.12.2018 | 22:54:15] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail 0
+[1.12.2018 | 22:54:17] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail 0
+[1.12.2018 | 23:00:07] Kidra_Tanosa(0)[127.0.0.1] cmd /setstat
+[1.12.2018 | 23:00:32] Kidra_Tanosa(0)[127.0.0.1] cmd /setstat 0 0 78
+[1.12.2018 | 23:05:38] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[1.12.2018 | 23:05:40] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[1.12.2018 | 23:05:41] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 1 | list 0| LSPD
+[1.12.2018 | 23:09:11] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 411
+[1.12.2018 | 23:09:19] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 411 1 2
+[1.12.2018 | 23:10:02] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[1.12.2018 | 23:10:10] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[1.12.2018 | 23:10:13] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[1.12.2018 | 23:10:23] Kidra_Tanosa(0)[127.0.0.1] cmd /setskin

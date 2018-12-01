@@ -114,7 +114,7 @@ CREATE TABLE `accounts` (
   `RepBan` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,
   `AskBan` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,
   `Clip` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,
-  `ContractTime` int(11) NOT NULL,
+  `ContractTime` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,,
   `GunsUP` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,
   `BuyGuns` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,
   `RPTest` int(11) NOT NULL DEFAULT 0, -- Added by Oleg,

@@ -46871,7 +46871,7 @@ forward OnPlayerRegisterMysql(playerid);
 public OnPlayerRegisterMysql(playerid)
 {
 	PlayerInfo[playerid][pID] = cache_insert_id(mysql);
-	//printf("mysql Создание аккаунтa %s(%s)", PN(playerid), PlayerIP(playerid));
+	printf("mysql Создание аккаунтa %s(%s)", PN(playerid), PlayerIP(playerid));
 	//aml(-3, playerid, "", PlayerIP(playerid),0);
 	//OnPlayerLogin(playerid);
 	return true;
@@ -54832,7 +54832,8 @@ CMD:unjail(playerid, params[])
 	if(PlayerInfo[playerid][pAdmin] < 3) return 1;
 	if(ADuty[playerid]!=228) return SendClientMessage(playerid,COLOR_GREY,NO_DUTY_TEXT);
 	if(sscanf(params,"u",params[0])) return SendClientMessage(playerid, COLOR_RED, "Используй: /unjail [id]");
-	if(params[0]==playerid)return false;
+	if (!PlayerInfo[playerid][pAdmin]==9) //if you are admin with level 9 you can release yourself from jail
+		if(params[0]==playerid)return false; //OLEG SHOULD EDIT
 	format(CMDstr,144," Администратор %s выпустил игрока %s.",Name(playerid),Name(params[0]));
 	AsendClientMessageToAll(COLOR_RED,CMDstr);
 	PlayerInfo[params[0]][pView] = 0;
