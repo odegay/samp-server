@@ -9,7 +9,7 @@ CREATE TABLE `buildinvestor` (
   `sum` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--
+--
 
 -- --------------------------------------------------------
 
