@@ -1,0 +1,1 @@
+mysql -u root --password=Regu_Hoop2009 < DB/bazanew.sq

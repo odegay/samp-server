@@ -22,22 +22,22 @@ new Foreach_IDs[MAX_PLAYERS], Player_Num_IDs, PlayerNum[MAX_PLAYERS];
 //~~~~~~~~~~~~~~~~~~~~~~~~~[ Mysql ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 #define HOST        "localhost"         //ХОСТ ЕСЛИ НА ЛОКАЛКЕ ТО localhost ЕСЛИ НА ХОСТИНГЕ ТО 127.0.0.1
 #define USER        "root"            //ПОЛЬЗОВАТЕЛЬ ЕСЛИ НА ЛОКАЛКЕ ТО root  ЕСЛИ НА ХОСТИНГЕ ТО gs и тот пользователь который на хосте указан
-#define DATABASE    "gs5448"            //БАЗА ДАННЫХ ЕСЛИ НА ЛОКАЛКЕ ТО ТА ЧТО ВЫ УКАЗАЛИ ПРИ СОЗДАНИИ В denver ЕСЛИ НА ХОСТИНГЕ ТО ТОЖЕ gs И ИД ПОЛЬЗОВАТЕЛЯ
+#define DATABASE    "FinegripRP_DB"            //БАЗА ДАННЫХ ЕСЛИ НА ЛОКАЛКЕ ТО ТА ЧТО ВЫ УКАЗАЛИ ПРИ СОЗДАНИИ В denver ЕСЛИ НА ХОСТИНГЕ ТО ТОЖЕ gs И ИД ПОЛЬЗОВАТЕЛЯ
 #define PASSWORD 	"Regu_Hoop2009"       //ПАРОЛЬ ЕСЛИ НА ЛОКАЛКЕ ТО ПУСТОЙ ЕСЛИ НА ХОСТИНГЕ ТО ТОТ КОТОРЫЙ ТАМ УКАЗАН
 //~~~~~~~~~~~~~~~~~~~~~~~~~[ Название сервера ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
-#define NAMECONNECT "Arbite RolePlay"                  //Название сервера при подключении
-#define NAME        "Arbite RP"                  //Название сервера
-#define FULLNAME    "Arbite RP | Uran | Обновление!"             //Полное название
-#define MODE        "Arbite RP 2.1"              //Мод сервера который будет отображатся в Mode
-#define NAMEICRP    "Arbite"               //Название штата
-#define LOGO1       "A"                          //Логотип например тут A
-#define LOGO2       "RBITE"                      //Логотип например тут RIZONA
-#define LOGO3       "URAN"                       //Логотип например SAINT ROSE
-#define FORUMSERV   "forum-arbiterp.fo.ua"    //Форум сервера
-#define MAILSERV    "arbiterp@gmail.com"          //Почта сервера
-#define SITE        "arbiterp.fo.ua"                           //Сайт сервера
-#define DONATESITE  "arbiterp.twopay.ru"     //Донат сайт
-#define GROUPVK     "vk.com/arbite_rp_uran" //Группа ВК
+#define NAMECONNECT "Finegrip RolePlay"                  //Название сервера при подключении
+#define NAME        "Finegrip RP"                  //Название сервера
+#define FULLNAME    "Finegrip RP | Basic | Обновление!"             //Полное название
+#define MODE        "Finegrip RP 2.1"              //Мод сервера который будет отображатся в Mode
+#define NAMEICRP    "Finegrip"               //Название штата
+#define LOGO1       "F"                          //Логотип например тут A
+#define LOGO2       "inegrip"                      //Логотип например тут RIZONA
+#define LOGO3       "BASIC"                       //Логотип например SAINT ROSE
+#define FORUMSERV   "www.oxota.kz"    //Форум сервера
+#define MAILSERV    "regu.hoop@gmail.com"          //Почта сервера
+#define SITE        "www.oxota.kz"                           //Сайт сервера
+#define DONATESITE  "www.oxota.kz"     //Донат сайт
+#define GROUPVK     "vk.com" //Группа ВК
 //~~~~~~~~~~~~~~~~~~~~~~~~~[ Бонус ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 #define BONUSMONEY  "2500"                   //Деньги при регистрации
 #define BONUSDONATE "0"                   //Донат при регистрации
