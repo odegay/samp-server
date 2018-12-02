@@ -218,3 +218,121 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [22:45:53] [connection] incoming connection: 127.0.0.1:55333 id: 0
 [22:45:53] [connection] incoming connection: 127.0.0.1:55334 id: 0
 [22:45:54] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[23:20:55] Binko
+[23:21:48] Binko
+[23:22:30] None
+[23:28:00] [part] Kidra_Tanosa has left the server (0:1)
+[09:43:02] --- Server Shutting Down.
+[09:43:02] 	Все аккаунты сохранены
+[09:43:02] 	Все тачки сохранены
+[09:43:03] 	Все дома сохранены
+[09:43:03] 	Все бизнесы сохранены
+[09:43:03] 	Все отели сохранены
+[09:43:03] 	Все казино сохранены
+[09:43:03] 	mxmini [new] сохранен
+[09:43:03]   Daniel's CMD plugin got unloaded
+[09:43:03] 
+
+[09:43:03]  ===============================
+
+[09:43:03]      sscanf plugin unloaded.    
+
+[09:43:03]  ===============================
+
+[09:43:03] plugin.mysql: Unloading plugin...
+[09:43:03] plugin.mysql: Plugin unloaded.
+[09:43:03]   MD5 v1.2 by BJIADOKC unloaded
+[09:43:03] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:44:15] filterscripts = ""  (string)
+[09:44:15] bind = ""  (string)
+[09:44:15] 
+[09:44:15] Server Plugins
+[09:44:15] --------------
+[09:44:15]  Loading plugin: dc_cmd
+[09:44:15]   Daniel's CMD plugin v2.8
+[09:44:15]     (c) 2014 Daniel_Cortez
+[09:44:15] 	www.pro-pawn.ru
+[09:44:15]   Loaded.
+[09:44:15]  Loading plugin: sscanf
+[09:44:15] 
+
+[09:44:15]  ===============================
+
+[09:44:15]       sscanf plugin loaded.     
+
+[09:44:15]          Version:  2.8.1        
+
+[09:44:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:44:15]  ===============================
+
+[09:44:15]   Loaded.
+[09:44:15]  Loading plugin: mysql
+[09:44:15]  >> plugin.mysql: R39-2 successfully loaded.
+[09:44:15]   Loaded.
+[09:44:15]  Loading plugin: md5
+[09:44:15]   MD5 v1.2 by BJIADOKC loaded
+[09:44:15]   Loaded.
+[09:44:15]  Loading plugin: streamer
+[09:44:15] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[09:44:15]   Loaded.
+[09:44:15]  Loaded 5 plugins.
+
+[09:44:15] 
+[09:44:15] Filterscripts
+[09:44:15] ---------------
+[09:44:15]   Loaded 0 filterscripts.
+
+[09:44:15] OnGameo
+[09:44:15] Подключение к Mysql | Удачно
+[09:44:15] Загружено биллбордов:      	50.
+[09:44:16] Загружено домов:      	0839
+[09:44:16] Загружено бизнесов:   	0126
+[09:44:16] Загружено авто: 		0120
+[09:44:16] Создано транспорта:  	0957
+[09:44:16] Создано объектов:    	21078
+[09:44:16] Создано гангзон:     	0101
+[09:44:16] _____________________________________________________________________
+[09:44:16]  Доработка мода By - Sanya -
+[09:44:16]  Finegrip RP © 2016-2017 By Arbite RP
+[09:44:16] _____________________________________________________________________
+[09:44:16] Number of vehicle models: 122
+[09:44:21] --- Server Shutting Down.
+[09:44:21] 	Все аккаунты сохранены
+[09:44:21] 	Все тачки сохранены
+[09:44:22] 	Все дома сохранены
+[09:44:22] 	Все бизнесы сохранены
+[09:44:22] 	Все отели сохранены
+[09:44:22] 	Все казино сохранены
+[09:44:22] 	mxmini [new] сохранен
+[09:44:22]   Daniel's CMD plugin got unloaded
+[09:44:22] 
+
+[09:44:22]  ===============================
+
+[09:44:22]      sscanf plugin unloaded.    
+
+[09:44:22]  ===============================
+
+[09:44:22] plugin.mysql: Unloading plugin...
+[09:44:22] plugin.mysql: Plugin unloaded.
+[09:44:22]   MD5 v1.2 by BJIADOKC unloaded
+[09:44:22] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
