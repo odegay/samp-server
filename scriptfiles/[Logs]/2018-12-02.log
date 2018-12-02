@@ -1,0 +1,359 @@
+[2.12.2018 | 09:48:55] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 09:49:17] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 09:49:21] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 09:49:28] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 16| [17] Пополнить склады бизнесов[5]
+[2.12.2018 | 09:49:54] Kidra_Tanosa(0)[127.0.0.1] cmd /jail 
+[2.12.2018 | 09:50:10] Kidra_Tanosa(0)[127.0.0.1] cmd /jail 0 1 ksdfhdskjfh
+[2.12.2018 | 09:50:19] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail
+[2.12.2018 | 09:50:23] Kidra_Tanosa(0)[127.0.0.1] cmd /unjail 0
+[2.12.2018 | 10:02:55] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader
+[2.12.2018 | 10:03:02] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 10:03:09] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 0 | list 0| ?Я???????Ж???П ?Ы?б
+[2.12.2018 | 10:04:13] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 10:04:23] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 10:04:28] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 10:04:31] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 10:04:32] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 10:04:35] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 10:04:41] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 0 | list 0| ?Я???????Ж???П ?Ы?б
+[2.12.2018 | 10:27:14] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 10:27:22] Kidra_Tanosa(0)[127.0.0.1] cmd /leaders
+[2.12.2018 | 10:27:29] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader
+[2.12.2018 | 10:27:37] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel 
+[2.12.2018 | 10:27:41] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 10:27:42] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 10:27:44] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader
+[2.12.2018 | 10:27:49] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 10:28:02] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 4| ?С?????М?????Ж?? LS
+[2.12.2018 | 10:28:07] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 1 | list -1| 
+[2.12.2018 | 10:28:24] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[2.12.2018 | 10:37:25] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 10:37:33] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 10:37:37] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 10:37:38] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 10:37:46] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 12:46:59] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 12:47:08] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 12:47:11] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 12:47:14] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 12:47:29] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 12:47:46] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 0 | list 0| РџРѕР»РёС†РёСЏ Р›РЎ
+[2.12.2018 | 13:38:17] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 13:38:25] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:38:28] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6248
+[2.12.2018 | 13:38:46] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:38:51] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:39:00] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 13:39:02] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 13:39:06] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:39:54] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 1| RCPD
+[2.12.2018 | 13:39:56] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:40:00] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:40:01] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 3| Полиция СФ
+[2.12.2018 | 13:40:05] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:40:41] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:40:45] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 3| [4] Блатеры[1]
+[2.12.2018 | 13:40:58] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:41:00] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 1| RCPD
+[2.12.2018 | 13:41:04] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:41:05] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:41:17] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 1| RCPD
+[2.12.2018 | 13:41:21] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 1 | list -1| 
+[2.12.2018 | 13:41:38] Kidra_Tanosa(0)[127.0.0.1] dialog 581 | 1 | list 0| - Переодеться
+[2.12.2018 | 13:41:38] Kidra_Tanosa(0)[127.0.0.1] dialog 7551 | 1 | list 0| - Переодется в рабочую форму.
+[2.12.2018 | 13:41:43] Kidra_Tanosa(0)[127.0.0.1] dialog 581 | 1 | list 0| - Переодеться
+[2.12.2018 | 13:41:47] Kidra_Tanosa(0)[127.0.0.1] dialog 7551 | 1 | list 0| - Переодется в свою одежду.
+[2.12.2018 | 13:41:49] Kidra_Tanosa(0)[127.0.0.1] dialog 581 | 1 | list 1| - Взять боеприпасы
+[2.12.2018 | 13:41:57] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:41:59] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:42:08] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 11| Следующая страница
+[2.12.2018 | 13:42:33] Kidra_Tanosa(0)[127.0.0.1] dialog 1989 | 1 | list 8| Finegrip Coins Рулетка  100 Рублей (Вероятность)
+[2.12.2018 | 13:42:35] Kidra_Tanosa(0)[127.0.0.1] dialog 1337 | 1 | list -1| 
+[2.12.2018 | 13:43:02] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:43:03] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 0 | list -1| 
+[2.12.2018 | 13:43:11] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:14] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 2| FBI
+[2.12.2018 | 13:43:15] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:16] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:18] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 3| Полиция СФ
+[2.12.2018 | 13:43:19] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:20] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:22] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 4| Больница LS
+[2.12.2018 | 13:43:22] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:23] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:24] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 5| Правительство
+[2.12.2018 | 13:43:25] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:26] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:27] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 6| Армия LV
+[2.12.2018 | 13:43:28] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:29] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:30] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 7| Больница SF
+[2.12.2018 | 13:43:31] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:32] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:33] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 8| Лицензеры
+[2.12.2018 | 13:43:34] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:37] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:38] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 9| Radio LS
+[2.12.2018 | 13:43:39] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:40] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:41] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 10| Grove
+[2.12.2018 | 13:43:41] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:42] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:43] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 11| Vagos
+[2.12.2018 | 13:43:45] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:49] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:50] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 12| Ballas
+[2.12.2018 | 13:43:51] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 1 | list -1| 
+[2.12.2018 | 13:43:52] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:53] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 13| Aztecas
+[2.12.2018 | 13:43:54] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:56] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:57] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 14| Rifa
+[2.12.2018 | 13:43:57] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:43:58] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:43:59] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 15| Russian Mafia
+[2.12.2018 | 13:44:00] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:01] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:02] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 16| Yakuza
+[2.12.2018 | 13:44:03] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:04] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:05] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 17| La Cosa Nostra
+[2.12.2018 | 13:44:06] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:07] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:08] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 18| Warlock MC
+[2.12.2018 | 13:44:08] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:10] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:11] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 19| Армия LS
+[2.12.2018 | 13:44:12] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:13] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:14] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 20| Центральный Банк
+[2.12.2018 | 13:44:15] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:19] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:22] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 21| Больница LV
+[2.12.2018 | 13:44:23] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:24] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:25] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 22| Полиция LV
+[2.12.2018 | 13:44:26] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:26] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:27] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 23| Radio LV
+[2.12.2018 | 13:44:28] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:29] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:30] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 24| Night Wolfs
+[2.12.2018 | 13:44:30] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:32] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:33] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 25| Radio SF
+[2.12.2018 | 13:44:34] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:36] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:44:37] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 26| Армия SF
+[2.12.2018 | 13:44:38] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 0 | list -1| 
+[2.12.2018 | 13:44:53] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 13:46:08] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 1 | list 22| Полиция LV
+[2.12.2018 | 13:46:09] Kidra_Tanosa(0)[127.0.0.1] dialog 27 | 1 | list -1| 
+[2.12.2018 | 13:46:34] Kidra_Tanosa(0)[127.0.0.1] cmd /sethp
+[2.12.2018 | 13:46:42] Kidra_Tanosa(0)[127.0.0.1] cmd /sethp 0 10000
+[2.12.2018 | 13:46:47] Kidra_Tanosa(0)[127.0.0.1] cmd /sethp 0 150
+[2.12.2018 | 13:46:57] Kidra_Tanosa(0)[127.0.0.1] cmd /sban
+[2.12.2018 | 13:47:14] Kidra_Tanosa(0)[127.0.0.1] cmd /makeadmin
+[2.12.2018 | 13:47:37] Kidra_Tanosa(0)[127.0.0.1] cmd /admins
+[2.12.2018 | 13:47:52] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:47:57] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 7| [8] Разбанить/список забанненых[3]
+[2.12.2018 | 13:48:00] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:48:02] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[2.12.2018 | 13:48:07] Kidra_Tanosa(0)[127.0.0.1] dialog 115 | 1 | list 0| Полиция ЛС: 		Daniel_Rodriges
+[2.12.2018 | 13:48:13] Kidra_Tanosa(0)[127.0.0.1] dialog 206 | 1 | list -1| 
+[2.12.2018 | 13:48:15] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:48:18] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 9| [10] Активировать PayDay[6]
+[2.12.2018 | 13:48:20] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:48:30] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 11| [12] Настройки сервера[6]
+[2.12.2018 | 13:48:41] Kidra_Tanosa(0)[127.0.0.1] dialog 951 | 1 | list 0| [Включить/Выключить] EXP (x2)
+[2.12.2018 | 13:48:44] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:48:46] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 11| [12] Настройки сервера[6]
+[2.12.2018 | 13:48:48] Kidra_Tanosa(0)[127.0.0.1] dialog 951 | 1 | list 0| [Включить/Выключить] EXP (x2)
+[2.12.2018 | 13:48:50] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:48:51] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 11| [12] Настройки сервера[6]
+[2.12.2018 | 13:48:54] Kidra_Tanosa(0)[127.0.0.1] dialog 951 | 1 | list 1| [Включить/Выключить] Донат (x2)
+[2.12.2018 | 13:48:57] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 13:48:58] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 11| [12] Настройки сервера[6]
+[2.12.2018 | 13:48:59] Kidra_Tanosa(0)[127.0.0.1] dialog 951 | 1 | list 1| [Включить/Выключить] Донат (x2)
+[2.12.2018 | 13:49:04] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:49:20] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 0 | list -1| 
+[2.12.2018 | 13:49:38] Kidra_Tanosa(0)[127.0.0.1] cmd /setstat 0 15 3000000
+[2.12.2018 | 13:49:41] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:49:46] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:49:48] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 11| Следующая страница
+[2.12.2018 | 13:49:52] Kidra_Tanosa(0)[127.0.0.1] dialog 1989 | 1 | list 7| Titan VIP [Вечная]	500 рублей
+[2.12.2018 | 13:49:54] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[2.12.2018 | 13:49:55] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:49:56] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:49:59] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 8| +1 Законопослушность 	3 рублей
+[2.12.2018 | 13:50:03] Kidra_Tanosa(0)[127.0.0.1] dialog 224 | 1 | list -1| 100
+[2.12.2018 | 13:50:07] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:50:08] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:50:09] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 8| +1 Законопослушность 	3 рублей
+[2.12.2018 | 13:50:13] Kidra_Tanosa(0)[127.0.0.1] dialog 224 | 1 | list -1| 99
+[2.12.2018 | 13:50:15] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:50:15] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:50:16] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 8| +1 Законопослушность 	3 рублей
+[2.12.2018 | 13:50:22] Kidra_Tanosa(0)[127.0.0.1] dialog 224 | 1 | list -1| 90
+[2.12.2018 | 13:50:23] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:50:24] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:50:25] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 8| +1 Законопослушность 	3 рублей
+[2.12.2018 | 13:50:27] Kidra_Tanosa(0)[127.0.0.1] dialog 224 | 1 | list -1| 80
+[2.12.2018 | 13:50:29] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:50:29] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:50:30] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 0 | list 8| +1 Законопослушность 	3 рублей
+[2.12.2018 | 13:50:30] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 0 | list -1| 
+[2.12.2018 | 13:50:32] Kidra_Tanosa(0)[127.0.0.1] cmd /mm
+[2.12.2018 | 13:50:33] Kidra_Tanosa(0)[127.0.0.1] dialog 722 | 1 | list 0| [1] Действие персонажа
+[2.12.2018 | 13:50:34] Kidra_Tanosa(0)[127.0.0.1] dialog 600 | 1 | list 0| [1] Моя статистика
+[2.12.2018 | 13:51:06] Kidra_Tanosa(0)[127.0.0.1] dialog 235 | 0 | list -1| 
+[2.12.2018 | 13:51:14] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:51:17] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:51:18] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 8| +1 Законопослушность 	3 рублей
+[2.12.2018 | 13:51:21] Kidra_Tanosa(0)[127.0.0.1] dialog 224 | 1 | list -1| 53
+[2.12.2018 | 13:52:34] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 13:52:36] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 13:52:45] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 0 | list 1| Купить VIP статус 1 уровня	150 рублей/30 Дней
+[2.12.2018 | 14:03:46] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 14:03:52] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 7| Выйти из ЧС 			40 рублей
+[2.12.2018 | 14:05:26] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 14:05:27] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 14:05:36] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 11| Следующая страница
+[2.12.2018 | 14:05:41] Kidra_Tanosa(0)[127.0.0.1] dialog 1989 | 1 | list 6| Дорогой чемодан для денег	100 рублей
+[2.12.2018 | 14:05:52] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[2.12.2018 | 14:05:55] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 14:05:57] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[2.12.2018 | 14:06:04] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 0 | list 0| LSPD
+[2.12.2018 | 14:06:10] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 3| Разное
+[2.12.2018 | 14:06:13] Kidra_Tanosa(0)[127.0.0.1] dialog 9004 | 1 | list 4| Админ зона
+[2.12.2018 | 14:07:45] Kidra_Tanosa(0)[127.0.0.1] dialog 492 | 1 | list -1| Fine Tanos
+[2.12.2018 | 14:07:53] Kidra_Tanosa(0)[127.0.0.1] cmd /fammenu
+[2.12.2018 | 14:07:58] Kidra_Tanosa(0)[127.0.0.1] dialog 491 | 1 | list 10| Улучшения
+[2.12.2018 | 14:07:59] Kidra_Tanosa(0)[127.0.0.1] dialog 531 | 1 | list 0| Улучшить склад
+[2.12.2018 | 14:08:01] Kidra_Tanosa(0)[127.0.0.1] dialog 532 | 1 | list -1| 
+[2.12.2018 | 14:08:04] Kidra_Tanosa(0)[127.0.0.1] cmd /fammenu
+[2.12.2018 | 14:08:05] Kidra_Tanosa(0)[127.0.0.1] dialog 491 | 1 | list 10| Улучшения
+[2.12.2018 | 14:08:06] Kidra_Tanosa(0)[127.0.0.1] dialog 531 | 1 | list 0| Улучшить склад
+[2.12.2018 | 14:08:15] Kidra_Tanosa(0)[127.0.0.1] dialog 532 | 1 | list -1| 
+[2.12.2018 | 14:08:30] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 14:08:32] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 3| 4. Разное
+[2.12.2018 | 14:08:34] Kidra_Tanosa(0)[127.0.0.1] dialog 9004 | 1 | list 2| ЖД-ЛВ
+[2.12.2018 | 14:09:55] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 411 99
+[2.12.2018 | 14:10:00] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 411 9 9
+[2.12.2018 | 14:10:41] Kidra_Tanosa(0)[127.0.0.1] dialog 779 | 1 | list -1| 
+[2.12.2018 | 14:10:46] Kidra_Tanosa(0)[127.0.0.1] dialog 778 | 1 | list -1| 123123
+[2.12.2018 | 14:10:47] Kidra_Tanosa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[2.12.2018 | 14:10:54] Kidra_Tanosa(0)[127.0.0.1] dialog 991 | 1 | list -1| 123123
+[2.12.2018 | 14:10:57] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:11:00] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 100000
+[2.12.2018 | 14:11:05] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:11:07] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 10000000
+[2.12.2018 | 14:11:12] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:11:22] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 7000000
+[2.12.2018 | 14:11:31] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:11:32] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 7000000
+[2.12.2018 | 14:11:36] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:11:36] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 7000000
+[2.12.2018 | 14:11:53] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:11:54] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 70000000
+[2.12.2018 | 14:12:09] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:12:10] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 700000000
+[2.12.2018 | 14:12:31] Kidra_Tanosa(0)[127.0.0.1] dialog 33 | 1 | list 2| Пополнить счет
+[2.12.2018 | 14:12:52] Kidra_Tanosa(0)[127.0.0.1] dialog 34 | 1 | list -1| 40000000
+[2.12.2018 | 14:13:09] Kidra_Tanosa(0)[127.0.0.1] cmd /fammenu
+[2.12.2018 | 14:13:11] Kidra_Tanosa(0)[127.0.0.1] dialog 491 | 1 | list 10| Улучшения
+[2.12.2018 | 14:13:12] Kidra_Tanosa(0)[127.0.0.1] dialog 531 | 1 | list 0| Улучшить склад
+[2.12.2018 | 14:13:13] Kidra_Tanosa(0)[127.0.0.1] dialog 532 | 1 | list -1| 
+[2.12.2018 | 14:13:14] Kidra_Tanosa(0)[127.0.0.1] cmd /fammenu
+[2.12.2018 | 14:13:20] Kidra_Tanosa(0)[127.0.0.1] dialog 491 | 1 | list 10| Улучшения
+[2.12.2018 | 14:13:22] Kidra_Tanosa(0)[127.0.0.1] dialog 531 | 1 | list 2| Улучшить кол-во членов семьи
+[2.12.2018 | 14:13:23] Kidra_Tanosa(0)[127.0.0.1] dialog 532 | 1 | list -1| 
+[2.12.2018 | 14:28:52] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 14:28:58] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 1 | list 5| [6] Починить машину[2]
+[2.12.2018 | 14:31:06] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 14:32:52] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 123 1 4
+[2.12.2018 | 14:32:57] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 14:33:01] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[2.12.2018 | 14:33:02] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 14:33:04] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 123 1 4
+[2.12.2018 | 14:33:18] Kidra_Tanosa(0)[127.0.0.1] cmd /gov
+[2.12.2018 | 14:33:22] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 14:33:23] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[2.12.2018 | 14:33:28] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 1 | list 2| LVPD
+[2.12.2018 | 14:33:43] Kidra_Tanosa(0)[127.0.0.1] dialog 581 | 1 | list 0| - Переодеться
+[2.12.2018 | 14:33:44] Kidra_Tanosa(0)[127.0.0.1] dialog 7551 | 1 | list 0| - Переодется в рабочую форму.
+[2.12.2018 | 14:33:47] Kidra_Tanosa(0)[127.0.0.1] cmd /gov
+[2.12.2018 | 14:33:54] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Привет
+[2.12.2018 | 14:34:13] Kidra_Tanosa(0)[127.0.0.1] cmd /gov И с вами Кидра Таноса!
+[2.12.2018 | 14:34:25] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Это програма
+[2.12.2018 | 14:34:33] Kidra_Tanosa(0)[127.0.0.1] cmd /gov называется
+[2.12.2018 | 14:34:40] Kidra_Tanosa(0)[127.0.0.1] cmd /gov ССР
+[2.12.2018 | 14:34:45] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Тоесть
+[2.12.2018 | 14:34:56] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Сам Себе Режисер
+[2.12.2018 | 14:35:10] Kidra_Tanosa(0)[127.0.0.1] cmd /gov И с нами Майкл Лейксон
+[2.12.2018 | 14:36:20] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Да и я не ошибся Не майкл джексон а Майкл Лейксон [Сказал с усхмылкай}
+[2.12.2018 | 14:36:38] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Vfqrk xnj ds crf;bbn
+[2.12.2018 | 14:36:52] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Майк что вы скажите?
+[2.12.2018 | 14:37:01] Kidra_Tanosa(0)[127.0.0.1] cmd /gov Да-да кЩАШЛПВЛРЬП
+[2.12.2018 | 14:37:41] Kidra_Tanosa(0)[127.0.0.1] cmd /gov аааа это зомби [Звук с раций} аыпапынарвпМОЗГИ
+[2.12.2018 | 14:37:58] Kidra_Tanosa(0)[127.0.0.1] cmd /gov онеетт эыир законченн
+[2.12.2018 | 14:39:38] Kidra_Tanosa(0)[127.0.0.1] cmd /sethp 0 150
+[2.12.2018 | 14:39:58] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 14:40:01] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 14:40:15] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 11| Следующая страница
+[2.12.2018 | 14:40:20] Kidra_Tanosa(0)[127.0.0.1] dialog 1989 | 1 | list 8| Finegrip Coins Рулетка  100 Рублей (Вероятность)
+[2.12.2018 | 14:40:20] Kidra_Tanosa(0)[127.0.0.1] dialog 1337 | 1 | list -1| 
+[2.12.2018 | 14:40:24] Kidra_Tanosa(0)[127.0.0.1] cmd /donate
+[2.12.2018 | 14:40:25] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 1 | list -1| 
+[2.12.2018 | 14:40:27] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 1 | list 11| Следующая страница
+[2.12.2018 | 14:40:53] Kidra_Tanosa(0)[127.0.0.1] dialog 1989 | 0 | list 8| Finegrip Coins Рулетка  100 Рублей (Вероятность)
+[2.12.2018 | 14:40:54] Kidra_Tanosa(0)[127.0.0.1] dialog 223 | 0 | list 11| Следующая страница
+[2.12.2018 | 14:40:55] Kidra_Tanosa(0)[127.0.0.1] dialog 222 | 0 | list -1| 
+[2.12.2018 | 14:41:24] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 190 5 5
+[2.12.2018 | 14:58:36] Kidra_Tanosa(0)[127.0.0.1] cmd /veh 411 5 5
+[2.12.2018 | 14:59:00] Kidra_Tanosa(0)[127.0.0.1] dialog 1171 | 0 | list 0| ?Т???????? ?Ь?Н?А???? ?Ы?б
+[2.12.2018 | 15:34:11] Kidra_Tanosa(0)[127.0.0.1] dialog 6321 | 1 | list 0| - Что ты тут делаешь?
+[2.12.2018 | 15:34:22] Kidra_Tanosa(0)[127.0.0.1] dialog 6321 | 1 | list 3| Доступные задания
+[2.12.2018 | 15:34:28] Kidra_Tanosa(0)[127.0.0.1] dialog 7971 | 0 | list 0| В поисках ёлки [Доступен]
+[2.12.2018 | 15:35:45] Kidra_Tanosa(0)[127.0.0.1] dialog 1171 | 0 | list 0| ?Т???????? ?Ь?Н?А???? ?Ы?б
+[2.12.2018 | 15:53:49] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list -1| 123456
+[2.12.2018 | 15:53:50] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[2.12.2018 | 15:53:51] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[2.12.2018 | 15:53:51] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[2.12.2018 | 16:05:22] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list -1| 123456
+[2.12.2018 | 16:05:23] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[2.12.2018 | 16:05:24] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[2.12.2018 | 16:05:25] Kidra_Tanosa(0)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[2.12.2018 | 16:06:37] Kidra_Tanosa(0)[127.0.0.1] dialog 230 | 1 | list -1| 
+[2.12.2018 | 16:07:58] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 16:08:02] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 16:47:29] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 16:47:50] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 16:47:51] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 1
+[2.12.2018 | 16:47:54] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 16:48:23] Kidra_Tanosa(0)[127.0.0.1] cmd /makeleader 0
+[2.12.2018 | 16:48:26] Kidra_Tanosa(0)[127.0.0.1] dialog 26 | 0 | list 0| Полиция ЛС
+[2.12.2018 | 16:48:30] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 16:48:31] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[2.12.2018 | 16:48:35] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 1 | list 11| Банковское отделение LS
+[2.12.2018 | 16:51:42] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 16:51:52] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 16:51:54] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 1
+[2.12.2018 | 16:51:55] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 16:52:00] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 16:52:01] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[2.12.2018 | 16:52:07] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 1 | list 11| Банковское отделение LS
+[2.12.2018 | 17:21:19] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 17:21:32] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 17:21:34] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 1
+[2.12.2018 | 17:21:35] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 17:21:41] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 17:21:43] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[2.12.2018 | 17:21:48] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 1 | list 11| Банковское отделение LS
+[2.12.2018 | 17:36:16] Kidra_Tanosa(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[2.12.2018 | 17:36:28] Kidra_Tanosa(0)[127.0.0.1] cmd /apanel
+[2.12.2018 | 17:36:30] Kidra_Tanosa(0)[127.0.0.1] dialog 211 | 1 | list -1| 1
+[2.12.2018 | 17:36:31] Kidra_Tanosa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[2.12.2018 | 17:36:34] Kidra_Tanosa(0)[127.0.0.1] cmd /tp
+[2.12.2018 | 17:36:35] Kidra_Tanosa(0)[127.0.0.1] dialog 9000 | 1 | list 0| 1. Государственные Организации
+[2.12.2018 | 17:36:39] Kidra_Tanosa(0)[127.0.0.1] dialog 9001 | 1 | list 11| Банковское отделение LS

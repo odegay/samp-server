@@ -336,3 +336,1431 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 
 *** Streamer Plugin v2.9.1 by Incognito unloaded ***
 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:46:40] filterscripts = ""  (string)
+[09:46:40] bind = ""  (string)
+[09:46:40] 
+[09:46:40] Server Plugins
+[09:46:40] --------------
+[09:46:40]  Loading plugin: dc_cmd
+[09:46:40]   Daniel's CMD plugin v2.8
+[09:46:40]     (c) 2014 Daniel_Cortez
+[09:46:40] 	www.pro-pawn.ru
+[09:46:40]   Loaded.
+[09:46:40]  Loading plugin: sscanf
+[09:46:40] 
+
+[09:46:40]  ===============================
+
+[09:46:40]       sscanf plugin loaded.     
+
+[09:46:40]          Version:  2.8.1        
+
+[09:46:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:46:40]  ===============================
+
+[09:46:40]   Loaded.
+[09:46:40]  Loading plugin: mysql
+[09:46:40]  >> plugin.mysql: R39-2 successfully loaded.
+[09:46:40]   Loaded.
+[09:46:40]  Loading plugin: md5
+[09:46:40]   MD5 v1.2 by BJIADOKC loaded
+[09:46:40]   Loaded.
+[09:46:40]  Loading plugin: streamer
+[09:46:40] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[09:46:40]   Loaded.
+[09:46:40]  Loaded 5 plugins.
+
+[09:46:40] 
+[09:46:40] Filterscripts
+[09:46:40] ---------------
+[09:46:40]   Loaded 0 filterscripts.
+
+[09:46:40] OnGameo
+[09:46:41] Подключение к Mysql | Удачно
+[09:46:41] Загружено биллбордов:      	50.
+[09:46:41] Загружено домов:      	0839
+[09:46:41] Загружено бизнесов:   	0126
+[09:46:41] Загружено авто: 		0120
+[09:46:41] Создано транспорта:  	0957
+[09:46:41] Создано объектов:    	21078
+[09:46:41] Создано гангзон:     	0101
+[09:46:41] _____________________________________________________________________
+[09:46:41]  Доработка мода By - Sanya -
+[09:46:41]  Finegrip RP © 2016-2017 By Arbite RP
+[09:46:41] _____________________________________________________________________
+[09:46:41] Number of vehicle models: 122
+[09:47:08] [connection] 127.0.0.1:53518 requests connection cookie.
+[09:47:09] [connection] incoming connection: 127.0.0.1:53518 id: 0
+[09:47:20] [connection] incoming connection: 127.0.0.1:53519 id: 0
+[09:47:30] [connection] incoming connection: 127.0.0.1:55339 id: 0
+[09:48:15] [connection] incoming connection: 127.0.0.1:64106 id: 0
+[09:48:15] [connection] incoming connection: 127.0.0.1:64107 id: 0
+[09:48:15] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[09:48:43] [connection] 127.0.0.1:64113 requests connection cookie.
+[09:48:44] [connection] incoming connection: 127.0.0.1:64113 id: 1
+[09:48:45] [connection] incoming connection: 127.0.0.1:65328 id: 1
+[09:48:45] [part] Kidra_Tanosa has left the server (0:0)
+[09:48:46] [connection] incoming connection: 127.0.0.1:65329 id: 0
+[09:48:46] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:02:12] filterscripts = ""  (string)
+[10:02:12] bind = ""  (string)
+[10:02:12] 
+[10:02:12] Server Plugins
+[10:02:12] --------------
+[10:02:12]  Loading plugin: dc_cmd
+[10:02:12]   Daniel's CMD plugin v2.8
+[10:02:12]     (c) 2014 Daniel_Cortez
+[10:02:12] 	www.pro-pawn.ru
+[10:02:12]   Loaded.
+[10:02:12]  Loading plugin: sscanf
+[10:02:12] 
+
+[10:02:12]  ===============================
+
+[10:02:12]       sscanf plugin loaded.     
+
+[10:02:12]          Version:  2.8.1        
+
+[10:02:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:02:12]  ===============================
+
+[10:02:12]   Loaded.
+[10:02:12]  Loading plugin: mysql
+[10:02:12]  >> plugin.mysql: R39-2 successfully loaded.
+[10:02:12]   Loaded.
+[10:02:12]  Loading plugin: md5
+[10:02:12]   MD5 v1.2 by BJIADOKC loaded
+[10:02:12]   Loaded.
+[10:02:12]  Loading plugin: streamer
+[10:02:12] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[10:02:12]   Loaded.
+[10:02:12]  Loaded 5 plugins.
+
+[10:02:12] 
+[10:02:12] Filterscripts
+[10:02:12] ---------------
+[10:02:12]   Loaded 0 filterscripts.
+
+[10:02:12] OnGameo
+[10:02:12] Подключение к Mysql | Удачно
+[10:02:12] Загружено биллбордов:      	50.
+[10:02:13] Загружено домов:      	0839
+[10:02:13] Загружено бизнесов:   	0126
+[10:02:13] Загружено авто: 		0120
+[10:02:13] Создано транспорта:  	0957
+[10:02:13] Создано объектов:    	21078
+[10:02:13] Создано гангзон:     	0101
+[10:02:13] _____________________________________________________________________
+[10:02:13]  Доработка мода By - Sanya -
+[10:02:13]  Finegrip RP © 2016-2017 By Arbite RP
+[10:02:13] _____________________________________________________________________
+[10:02:13] Number of vehicle models: 122
+[10:03:12] [part] Kidra_Tanosa has left the server (0:1)
+[10:03:17] --- Server Shutting Down.
+[10:03:17] 	Все аккаунты сохранены
+[10:03:17] 	Все тачки сохранены
+[10:03:17] 	Все дома сохранены
+[10:03:18] 	Все бизнесы сохранены
+[10:03:18] 	Все отели сохранены
+[10:03:18] 	Все казино сохранены
+[10:03:18] 	mxmini [new] сохранен
+[10:03:18]   Daniel's CMD plugin got unloaded
+[10:03:18] 
+
+[10:03:18]  ===============================
+
+[10:03:18]      sscanf plugin unloaded.    
+
+[10:03:18]  ===============================
+
+[10:03:18] plugin.mysql: Unloading plugin...
+[10:03:18] plugin.mysql: Plugin unloaded.
+[10:03:18]   MD5 v1.2 by BJIADOKC unloaded
+[10:03:18] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[10:04:02] [connection] 127.0.0.1:62167 requests connection cookie.
+[10:04:03] [connection] incoming connection: 127.0.0.1:62167 id: 0
+[10:04:04] [connection] incoming connection: 127.0.0.1:62168 id: 0
+[10:04:04] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[10:04:44] [part] Kidra_Tanosa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:25:34] filterscripts = ""  (string)
+[10:25:34] bind = ""  (string)
+[10:25:34] 
+[10:25:34] Server Plugins
+[10:25:34] --------------
+[10:25:34]  Loading plugin: dc_cmd
+[10:25:34]   Daniel's CMD plugin v2.8
+[10:25:34]     (c) 2014 Daniel_Cortez
+[10:25:34] 	www.pro-pawn.ru
+[10:25:34]   Loaded.
+[10:25:34]  Loading plugin: sscanf
+[10:25:34] 
+
+[10:25:34]  ===============================
+
+[10:25:34]       sscanf plugin loaded.     
+
+[10:25:34]          Version:  2.8.1        
+
+[10:25:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:25:34]  ===============================
+
+[10:25:34]   Loaded.
+[10:25:34]  Loading plugin: mysql
+[10:25:34]  >> plugin.mysql: R39-2 successfully loaded.
+[10:25:34]   Loaded.
+[10:25:34]  Loading plugin: md5
+[10:25:34]   MD5 v1.2 by BJIADOKC loaded
+[10:25:34]   Loaded.
+[10:25:34]  Loading plugin: streamer
+[10:25:34] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[10:25:34]   Loaded.
+[10:25:34]  Loaded 5 plugins.
+
+[10:25:34] 
+[10:25:34] Filterscripts
+[10:25:34] ---------------
+[10:25:34]   Loaded 0 filterscripts.
+
+[10:25:34] OnGameo
+[10:25:34] Подключение к Mysql | Удачно
+[10:25:34] Загружено биллбордов:      	50.
+[10:25:35] Загружено домов:      	0839
+[10:25:35] Загружено бизнесов:   	0126
+[10:25:35] Загружено авто: 		0120
+[10:25:35] Создано транспорта:  	0957
+[10:25:35] Создано объектов:    	21078
+[10:25:35] Создано гангзон:     	0101
+[10:25:35] _____________________________________________________________________
+[10:25:35]  Доработка мода By - Sanya -
+[10:25:35]  Finegrip RP © 2016-2017 By Arbite RP
+[10:25:35] _____________________________________________________________________
+[10:25:35] Number of vehicle models: 122
+[10:26:04] [connection] 127.0.0.1:58030 requests connection cookie.
+[10:26:05] [connection] incoming connection: 127.0.0.1:58030 id: 0
+[10:26:20] [connection] incoming connection: 127.0.0.1:58034 id: 0
+[10:26:33] [connection] incoming connection: 127.0.0.1:58038 id: 0
+[10:26:43] [connection] 127.0.0.1:58112 requests connection cookie.
+[10:26:44] [connection] incoming connection: 127.0.0.1:58112 id: 0
+[10:27:04] [connection] incoming connection: 127.0.0.1:56451 id: 0
+[10:27:05] [connection] incoming connection: 127.0.0.1:56452 id: 0
+[10:27:05] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[10:28:27] [part] Kidra_Tanosa has left the server (0:1)
+[10:32:59] --- Server Shutting Down.
+[10:32:59] 	Все аккаунты сохранены
+[10:32:59] 	Все тачки сохранены
+[10:33:00] 	Все дома сохранены
+[10:33:00] 	Все бизнесы сохранены
+[10:33:00] 	Все отели сохранены
+[10:33:00] 	Все казино сохранены
+[10:33:00] 	mxmini [new] сохранен
+[10:33:00]   Daniel's CMD plugin got unloaded
+[10:33:00] 
+
+[10:33:00]  ===============================
+
+[10:33:00]      sscanf plugin unloaded.    
+
+[10:33:00]  ===============================
+
+[10:33:00] plugin.mysql: Unloading plugin...
+[10:33:00] plugin.mysql: Plugin unloaded.
+[10:33:00]   MD5 v1.2 by BJIADOKC unloaded
+[10:33:00] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:02] filterscripts = ""  (string)
+[10:33:02] bind = ""  (string)
+[10:33:02] 
+[10:33:02] Server Plugins
+[10:33:02] --------------
+[10:33:02]  Loading plugin: dc_cmd
+[10:33:02]   Daniel's CMD plugin v2.8
+[10:33:02]     (c) 2014 Daniel_Cortez
+[10:33:02] 	www.pro-pawn.ru
+[10:33:02]   Loaded.
+[10:33:02]  Loading plugin: sscanf
+[10:33:02] 
+
+[10:33:02]  ===============================
+
+[10:33:02]       sscanf plugin loaded.     
+
+[10:33:02]          Version:  2.8.1        
+
+[10:33:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:33:02]  ===============================
+
+[10:33:02]   Loaded.
+[10:33:02]  Loading plugin: mysql
+[10:33:02]  >> plugin.mysql: R39-2 successfully loaded.
+[10:33:02]   Loaded.
+[10:33:02]  Loading plugin: md5
+[10:33:02]   MD5 v1.2 by BJIADOKC loaded
+[10:33:02]   Loaded.
+[10:33:02]  Loading plugin: streamer
+[10:33:02] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[10:33:02]   Loaded.
+[10:33:02]  Loaded 5 plugins.
+
+[10:33:02] 
+[10:33:02] Filterscripts
+[10:33:02] ---------------
+[10:33:02]   Loaded 0 filterscripts.
+
+[10:33:02] OnGameo
+[10:33:03] Подключение к Mysql | Удачно
+[10:33:03] Загружено биллбордов:      	50.
+[10:33:03] Загружено домов:      	0839
+[10:33:03] Загружено бизнесов:   	0126
+[10:33:03] Загружено авто: 		0120
+[10:33:03] Создано транспорта:  	0957
+[10:33:03] Создано объектов:    	21078
+[10:33:03] Создано гангзон:     	0101
+[10:33:03] _____________________________________________________________________
+[10:33:03]  Доработка мода By - Sanya -
+[10:33:03]  Finegrip RP © 2016-2017 By Arbite RP
+[10:33:03] _____________________________________________________________________
+[10:33:03] Number of vehicle models: 122
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:46:02] filterscripts = ""  (string)
+[12:46:02] bind = ""  (string)
+[12:46:02] 
+[12:46:02] Server Plugins
+[12:46:02] --------------
+[12:46:02]  Loading plugin: dc_cmd
+[12:46:02]   Daniel's CMD plugin v2.8
+[12:46:02]     (c) 2014 Daniel_Cortez
+[12:46:02] 	www.pro-pawn.ru
+[12:46:02]   Loaded.
+[12:46:02]  Loading plugin: sscanf
+[12:46:02] 
+
+[12:46:02]  ===============================
+
+[12:46:02]       sscanf plugin loaded.     
+
+[12:46:02]          Version:  2.8.1        
+
+[12:46:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:46:02]  ===============================
+
+[12:46:02]   Loaded.
+[12:46:02]  Loading plugin: mysql
+[12:46:02]  >> plugin.mysql: R39-2 successfully loaded.
+[12:46:02]   Loaded.
+[12:46:02]  Loading plugin: md5
+[12:46:03]   MD5 v1.2 by BJIADOKC loaded
+[12:46:03]   Loaded.
+[12:46:03]  Loading plugin: streamer
+[12:46:03] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[12:46:03]   Loaded.
+[12:46:03]  Loaded 5 plugins.
+
+[12:46:03] 
+[12:46:03] Filterscripts
+[12:46:03] ---------------
+[12:46:03]   Loaded 0 filterscripts.
+
+[12:46:03] OnGameo
+[12:46:03] Подключение к Mysql | Удачно
+[12:46:03] Загружено биллбордов:      	50.
+[12:46:04] Загружено домов:      	0839
+[12:46:04] Загружено бизнесов:   	0126
+[12:46:04] Загружено авто: 		0120
+[12:46:04] Создано транспорта:  	0957
+[12:46:04] Создано объектов:    	21078
+[12:46:04] Создано гангзон:     	0101
+[12:46:04] _____________________________________________________________________
+[12:46:04]  Доработка мода By - Sanya -
+[12:46:04]  Finegrip RP © 2016-2017 By Arbite RP
+[12:46:04] _____________________________________________________________________
+[12:46:04] Number of vehicle models: 122
+[12:46:47] [connection] 127.0.0.1:54042 requests connection cookie.
+[12:46:48] [connection] incoming connection: 127.0.0.1:54042 id: 0
+[12:46:49] [connection] incoming connection: 127.0.0.1:54043 id: 0
+[12:46:49] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[12:47:52] [part] Kidra_Tanosa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:37:34] filterscripts = ""  (string)
+[13:37:34] bind = ""  (string)
+[13:37:34] 
+[13:37:34] Server Plugins
+[13:37:34] --------------
+[13:37:34]  Loading plugin: dc_cmd
+[13:37:34]   Daniel's CMD plugin v2.8
+[13:37:34]     (c) 2014 Daniel_Cortez
+[13:37:34] 	www.pro-pawn.ru
+[13:37:34]   Loaded.
+[13:37:34]  Loading plugin: sscanf
+[13:37:34] 
+
+[13:37:34]  ===============================
+
+[13:37:34]       sscanf plugin loaded.     
+
+[13:37:34]          Version:  2.8.1        
+
+[13:37:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:37:34]  ===============================
+
+[13:37:34]   Loaded.
+[13:37:34]  Loading plugin: mysql
+[13:37:34]  >> plugin.mysql: R39-2 successfully loaded.
+[13:37:34]   Loaded.
+[13:37:34]  Loading plugin: md5
+[13:37:34]   MD5 v1.2 by BJIADOKC loaded
+[13:37:34]   Loaded.
+[13:37:34]  Loading plugin: streamer
+[13:37:34] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[13:37:34]   Loaded.
+[13:37:34]  Loaded 5 plugins.
+
+[13:37:34] 
+[13:37:34] Filterscripts
+[13:37:34] ---------------
+[13:37:34]   Loaded 0 filterscripts.
+
+[13:37:34] OnGameo
+[13:37:35] Подключение к Mysql | Удачно
+[13:37:35] Загружено биллбордов:      	50.
+[13:37:35] Загружено домов:      	0839
+[13:37:35] Загружено бизнесов:   	0126
+[13:37:35] Загружено авто: 		0120
+[13:37:35] Создано транспорта:  	0957
+[13:37:35] Создано объектов:    	21078
+[13:37:35] Создано гангзон:     	0101
+[13:37:35] _____________________________________________________________________
+[13:37:35]  Доработка мода By Andrew Degay
+[13:37:35]  Finegrip RP © 2016-2017 By Finegrip RP
+[13:37:35] _____________________________________________________________________
+[13:37:35] Number of vehicle models: 122
+[13:38:07] [connection] 127.0.0.1:59522 requests connection cookie.
+[13:38:08] [connection] incoming connection: 127.0.0.1:59522 id: 0
+[13:38:08] [connection] incoming connection: 127.0.0.1:59523 id: 0
+[13:38:09] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[14:05:15] BuyGun
+[14:10:46] None
+[14:11:00] PutMoney (Bank)
+[14:11:07] PutMoney (Bank)
+[14:11:22] PutMoney (Bank)
+[14:11:32] PutMoney (Bank)
+[14:11:36] PutMoney (Bank)
+[14:30:45] [part] Kidra_Tanosa has left the server (0:0)
+[14:30:56] [connection] 127.0.0.1:60020 requests connection cookie.
+[14:30:57] [connection] incoming connection: 127.0.0.1:60020 id: 0
+[14:30:57] [connection] incoming connection: 127.0.0.1:60021 id: 0
+[14:30:57] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[15:36:31] [part] Kidra_Tanosa has left the server (0:1)
+[15:36:37] --- Server Shutting Down.
+[15:36:37] 	Все аккаунты сохранены
+[15:36:37] 	Все тачки сохранены
+[15:36:37] 	Все дома сохранены
+[15:36:37] 	Все бизнесы сохранены
+[15:36:38] 	Все отели сохранены
+[15:36:38] 	Все казино сохранены
+[15:36:38] 	mxmini [new] сохранен
+[15:36:38]   Daniel's CMD plugin got unloaded
+[15:36:38] 
+
+[15:36:38]  ===============================
+
+[15:36:38]      sscanf plugin unloaded.    
+
+[15:36:38]  ===============================
+
+[15:36:38] plugin.mysql: Unloading plugin...
+[15:36:38] plugin.mysql: Plugin unloaded.
+[15:36:38]   MD5 v1.2 by BJIADOKC unloaded
+[15:36:38] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:48] filterscripts = ""  (string)
+[15:52:48] bind = ""  (string)
+[15:52:48] 
+[15:52:48] Server Plugins
+[15:52:48] --------------
+[15:52:48]  Loading plugin: dc_cmd
+[15:52:48]   Daniel's CMD plugin v2.8
+[15:52:48]     (c) 2014 Daniel_Cortez
+[15:52:48] 	www.pro-pawn.ru
+[15:52:48]   Loaded.
+[15:52:48]  Loading plugin: sscanf
+[15:52:48] 
+
+[15:52:48]  ===============================
+
+[15:52:48]       sscanf plugin loaded.     
+
+[15:52:48]          Version:  2.8.1        
+
+[15:52:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:52:48]  ===============================
+
+[15:52:48]   Loaded.
+[15:52:48]  Loading plugin: mysql
+[15:52:48]  >> plugin.mysql: R39-2 successfully loaded.
+[15:52:48]   Loaded.
+[15:52:48]  Loading plugin: md5
+[15:52:48]   MD5 v1.2 by BJIADOKC loaded
+[15:52:48]   Loaded.
+[15:52:48]  Loading plugin: streamer
+[15:52:48] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[15:52:48]   Loaded.
+[15:52:48]  Loaded 5 plugins.
+
+[15:52:48] 
+[15:52:48] Filterscripts
+[15:52:48] ---------------
+[15:52:48]   Loaded 0 filterscripts.
+
+[15:52:48] OnGameo
+[15:52:49] Подключение к Mysql | Удачно
+[15:52:49] Загружено биллбордов:      	50.
+[15:52:49] Загружено домов:      	0839
+[15:52:49] Загружено бизнесов:   	0126
+[15:52:49] Загружено авто: 		0120
+[15:52:49] Создано транспорта:  	0957
+[15:52:49] Создано объектов:    	21078
+[15:52:49] Создано гангзон:     	0101
+[15:52:49] _____________________________________________________________________
+[15:52:49]  Доработка мода By Andrew Degay
+[15:52:49]  Finegrip RP © 2016-2017 By Finegrip RP
+[15:52:49] _____________________________________________________________________
+[15:52:49] Number of vehicle models: 122
+[15:53:30] [connection] 127.0.0.1:56431 requests connection cookie.
+[15:53:31] [connection] incoming connection: 127.0.0.1:56431 id: 0
+[15:53:31] [connection] incoming connection: 127.0.0.1:49378 id: 0
+[15:53:32] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[15:53:51] mysql Создание аккаунтa Kidra_Tanosa(127.0.0.1)
+[15:54:56] --- Server Shutting Down.
+[15:54:56] 	Все аккаунты сохранены
+[15:54:56] 	Все тачки сохранены
+[15:54:56] 	Все дома сохранены
+[15:54:56] 	Все бизнесы сохранены
+[15:54:57] 	Все отели сохранены
+[15:54:57] 	Все казино сохранены
+[15:54:57] 	mxmini [new] сохранен
+[15:54:57] [part] Kidra_Tanosa has left the server (0:0)
+[15:54:57]   Daniel's CMD plugin got unloaded
+[15:54:57] 
+
+[15:54:57]  ===============================
+
+[15:54:57]      sscanf plugin unloaded.    
+
+[15:54:57]  ===============================
+
+[15:54:57] plugin.mysql: Unloading plugin...
+[15:54:57] plugin.mysql: Plugin unloaded.
+[15:54:57]   MD5 v1.2 by BJIADOKC unloaded
+[15:54:57] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:02:47] filterscripts = ""  (string)
+[16:02:47] bind = ""  (string)
+[16:02:47] 
+[16:02:47] Server Plugins
+[16:02:47] --------------
+[16:02:47]  Loading plugin: dc_cmd
+[16:02:47]   Daniel's CMD plugin v2.8
+[16:02:47]     (c) 2014 Daniel_Cortez
+[16:02:47] 	www.pro-pawn.ru
+[16:02:47]   Loaded.
+[16:02:47]  Loading plugin: sscanf
+[16:02:47] 
+
+[16:02:47]  ===============================
+
+[16:02:47]       sscanf plugin loaded.     
+
+[16:02:47]          Version:  2.8.1        
+
+[16:02:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:02:47]  ===============================
+
+[16:02:47]   Loaded.
+[16:02:47]  Loading plugin: mysql
+[16:02:47]  >> plugin.mysql: R39-2 successfully loaded.
+[16:02:47]   Loaded.
+[16:02:47]  Loading plugin: md5
+[16:02:47]   MD5 v1.2 by BJIADOKC loaded
+[16:02:47]   Loaded.
+[16:02:47]  Loading plugin: streamer
+[16:02:47] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[16:02:47]   Loaded.
+[16:02:47]  Loaded 5 plugins.
+
+[16:02:47] 
+[16:02:47] Filterscripts
+[16:02:47] ---------------
+[16:02:47]   Loaded 0 filterscripts.
+
+[16:02:48] OnGameo
+[16:02:48] Подключение к Mysql | Удачно
+[16:02:48] Загружено биллбордов:      	50.
+[16:02:49] Загружено домов:      	0839
+[16:02:49] Загружено бизнесов:   	0126
+[16:02:49] Загружено авто: 		0120
+[16:02:49] Создано транспорта:  	0957
+[16:02:49] Создано объектов:    	21078
+[16:02:49] Создано гангзон:     	0101
+[16:02:49] _____________________________________________________________________
+[16:02:49]  Доработка мода By Andrew Degay
+[16:02:49]  Finegrip RP © 2016-2017 By Finegrip RP
+[16:02:49] _____________________________________________________________________
+[16:02:49] Number of vehicle models: 122
+[16:03:33] --- Server Shutting Down.
+[16:03:33] 	Все аккаунты сохранены
+[16:03:33] 	Все тачки сохранены
+[16:03:34] 	Все дома сохранены
+[16:03:34] 	Все бизнесы сохранены
+[16:03:34] 	Все отели сохранены
+[16:03:34] 	Все казино сохранены
+[16:03:34] 	mxmini [new] сохранен
+[16:03:34]   Daniel's CMD plugin got unloaded
+[16:03:34] 
+
+[16:03:34]  ===============================
+
+[16:03:34]      sscanf plugin unloaded.    
+
+[16:03:34]  ===============================
+
+[16:03:34] plugin.mysql: Unloading plugin...
+[16:03:34] plugin.mysql: Plugin unloaded.
+[16:03:34]   MD5 v1.2 by BJIADOKC unloaded
+[16:03:34] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:04:41] filterscripts = ""  (string)
+[16:04:41] bind = ""  (string)
+[16:04:41] 
+[16:04:41] Server Plugins
+[16:04:41] --------------
+[16:04:41]  Loading plugin: dc_cmd
+[16:04:41]   Daniel's CMD plugin v2.8
+[16:04:41]     (c) 2014 Daniel_Cortez
+[16:04:41] 	www.pro-pawn.ru
+[16:04:41]   Loaded.
+[16:04:41]  Loading plugin: sscanf
+[16:04:41] 
+
+[16:04:41]  ===============================
+
+[16:04:41]       sscanf plugin loaded.     
+
+[16:04:41]          Version:  2.8.1        
+
+[16:04:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:04:41]  ===============================
+
+[16:04:41]   Loaded.
+[16:04:41]  Loading plugin: mysql
+[16:04:41]  >> plugin.mysql: R39-2 successfully loaded.
+[16:04:41]   Loaded.
+[16:04:41]  Loading plugin: md5
+[16:04:41]   MD5 v1.2 by BJIADOKC loaded
+[16:04:41]   Loaded.
+[16:04:41]  Loading plugin: streamer
+[16:04:41] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[16:04:41]   Loaded.
+[16:04:41]  Loaded 5 plugins.
+
+[16:04:41] 
+[16:04:41] Filterscripts
+[16:04:41] ---------------
+[16:04:41]   Loaded 0 filterscripts.
+
+[16:04:41] OnGameo
+[16:04:41] Подключение к Mysql | Удачно
+[16:04:41] Загружено биллбордов:      	50.
+[16:04:42] Загружено домов:      	0839
+[16:04:42] Загружено бизнесов:   	0126
+[16:04:42] Загружено авто: 		0120
+[16:04:42] Создано транспорта:  	0957
+[16:04:42] Создано объектов:    	21078
+[16:04:42] Создано гангзон:     	0101
+[16:04:42] _____________________________________________________________________
+[16:04:42]  Доработка мода By Andrew Degay
+[16:04:42]  Finegrip RP © 2016-2017 By Finegrip RP
+[16:04:42] _____________________________________________________________________
+[16:04:42] Number of vehicle models: 122
+[16:05:11] [connection] 127.0.0.1:58563 requests connection cookie.
+[16:05:12] [connection] incoming connection: 127.0.0.1:58563 id: 0
+[16:05:12] [connection] incoming connection: 127.0.0.1:58564 id: 0
+[16:05:12] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[16:05:25] mysql Создание аккаунтa Kidra_Tanosa(127.0.0.1)
+[16:06:37] RantCar
+[16:08:08] [part] Kidra_Tanosa has left the server (0:1)
+[16:44:43] --- Server Shutting Down.
+[16:44:43] 	Все аккаунты сохранены
+[16:44:43] 	Все тачки сохранены
+[16:44:43] 	Все дома сохранены
+[16:44:43] 	Все бизнесы сохранены
+[16:44:43] 	Все отели сохранены
+[16:44:43] 	Все казино сохранены
+[16:44:43] 	mxmini [new] сохранен
+[16:44:43]   Daniel's CMD plugin got unloaded
+[16:44:43] 
+
+[16:44:43]  ===============================
+
+[16:44:43]      sscanf plugin unloaded.    
+
+[16:44:43]  ===============================
+
+[16:44:43] plugin.mysql: Unloading plugin...
+[16:44:43] plugin.mysql: Plugin unloaded.
+[16:44:43]   MD5 v1.2 by BJIADOKC unloaded
+[16:44:43] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:46:43] filterscripts = ""  (string)
+[16:46:43] bind = ""  (string)
+[16:46:43] 
+[16:46:43] Server Plugins
+[16:46:43] --------------
+[16:46:43]  Loading plugin: dc_cmd
+[16:46:43]   Daniel's CMD plugin v2.8
+[16:46:43]     (c) 2014 Daniel_Cortez
+[16:46:43] 	www.pro-pawn.ru
+[16:46:43]   Loaded.
+[16:46:43]  Loading plugin: sscanf
+[16:46:43] 
+
+[16:46:43]  ===============================
+
+[16:46:43]       sscanf plugin loaded.     
+
+[16:46:43]          Version:  2.8.1        
+
+[16:46:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:46:43]  ===============================
+
+[16:46:43]   Loaded.
+[16:46:43]  Loading plugin: mysql
+[16:46:43]  >> plugin.mysql: R39-2 successfully loaded.
+[16:46:43]   Loaded.
+[16:46:43]  Loading plugin: md5
+[16:46:43]   MD5 v1.2 by BJIADOKC loaded
+[16:46:43]   Loaded.
+[16:46:43]  Loading plugin: streamer
+[16:46:43] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[16:46:43]   Loaded.
+[16:46:43]  Loaded 5 plugins.
+
+[16:46:43] 
+[16:46:43] Filterscripts
+[16:46:43] ---------------
+[16:46:43]   Loaded 0 filterscripts.
+
+[16:46:43] OnGameo
+[16:46:44] Подключение к Mysql | Удачно
+[16:46:44] Загружено биллбордов:      	50.
+[16:46:44] Загружено домов:      	0839
+[16:46:44] Загружено бизнесов:   	0126
+[16:46:44] Загружено авто: 		0120
+[16:46:44] Создано транспорта:  	0957
+[16:46:44] Создано объектов:    	21078
+[16:46:44] Создано гангзон:     	0101
+[16:46:44] _____________________________________________________________________
+[16:46:44]  Доработка мода By Andrew Degay
+[16:46:44]  Finegrip RP © 2016-2017 By Finegrip RP
+[16:46:44] _____________________________________________________________________
+[16:46:44] Number of vehicle models: 122
+[16:47:18] [connection] 127.0.0.1:59213 requests connection cookie.
+[16:47:19] [connection] incoming connection: 127.0.0.1:59213 id: 0
+[16:47:19] [connection] incoming connection: 127.0.0.1:59214 id: 0
+[16:47:20] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[16:49:58] [part] Kidra_Tanosa has left the server (0:1)
+[16:50:03] --- Server Shutting Down.
+[16:50:03] 	Все аккаунты сохранены
+[16:50:03] 	Все тачки сохранены
+[16:50:03] 	Все дома сохранены
+[16:50:04] 	Все бизнесы сохранены
+[16:50:04] 	Все отели сохранены
+[16:50:04] 	Все казино сохранены
+[16:50:04] 	mxmini [new] сохранен
+[16:50:04]   Daniel's CMD plugin got unloaded
+[16:50:04] 
+
+[16:50:04]  ===============================
+
+[16:50:04]      sscanf plugin unloaded.    
+
+[16:50:04]  ===============================
+
+[16:50:04] plugin.mysql: Unloading plugin...
+[16:50:04] plugin.mysql: Plugin unloaded.
+[16:50:04]   MD5 v1.2 by BJIADOKC unloaded
+[16:50:04] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:51:04] filterscripts = ""  (string)
+[16:51:04] bind = ""  (string)
+[16:51:04] 
+[16:51:04] Server Plugins
+[16:51:04] --------------
+[16:51:04]  Loading plugin: dc_cmd
+[16:51:04]   Daniel's CMD plugin v2.8
+[16:51:04]     (c) 2014 Daniel_Cortez
+[16:51:04] 	www.pro-pawn.ru
+[16:51:04]   Loaded.
+[16:51:04]  Loading plugin: sscanf
+[16:51:04] 
+
+[16:51:04]  ===============================
+
+[16:51:04]       sscanf plugin loaded.     
+
+[16:51:04]          Version:  2.8.1        
+
+[16:51:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:51:04]  ===============================
+
+[16:51:04]   Loaded.
+[16:51:04]  Loading plugin: mysql
+[16:51:04]  >> plugin.mysql: R39-2 successfully loaded.
+[16:51:04]   Loaded.
+[16:51:04]  Loading plugin: md5
+[16:51:04]   MD5 v1.2 by BJIADOKC loaded
+[16:51:04]   Loaded.
+[16:51:04]  Loading plugin: streamer
+[16:51:04] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[16:51:04]   Loaded.
+[16:51:04]  Loaded 5 plugins.
+
+[16:51:04] 
+[16:51:04] Filterscripts
+[16:51:04] ---------------
+[16:51:04]   Loaded 0 filterscripts.
+
+[16:51:04] OnGameo
+[16:51:05] Подключение к Mysql | Удачно
+[16:51:05] Загружено биллбордов:      	50.
+[16:51:05] Загружено домов:      	0839
+[16:51:05] Загружено бизнесов:   	0126
+[16:51:05] Загружено авто: 		0120
+[16:51:05] Создано транспорта:  	0957
+[16:51:05] Создано объектов:    	21078
+[16:51:05] Создано гангзон:     	0101
+[16:51:05] _____________________________________________________________________
+[16:51:05]  Доработка мода By Andrew Degay
+[16:51:05]  Finegrip RP © 2016-2017 By Finegrip RP
+[16:51:05] _____________________________________________________________________
+[16:51:05] Number of vehicle models: 122
+[16:51:29] [connection] 127.0.0.1:50624 requests connection cookie.
+[16:51:30] [connection] incoming connection: 127.0.0.1:50624 id: 0
+[16:51:31] [connection] incoming connection: 127.0.0.1:50625 id: 0
+[16:51:31] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[17:17:31] [part] Kidra_Tanosa has left the server (0:1)
+[17:18:10] --- Server Shutting Down.
+[17:18:10] 	Все аккаунты сохранены
+[17:18:10] 	Все тачки сохранены
+[17:18:10] 	Все дома сохранены
+[17:18:10] 	Все бизнесы сохранены
+[17:18:10] 	Все отели сохранены
+[17:18:10] 	Все казино сохранены
+[17:18:10] 	mxmini [new] сохранен
+[17:18:10]   Daniel's CMD plugin got unloaded
+[17:18:10] 
+
+[17:18:10]  ===============================
+
+[17:18:10]      sscanf plugin unloaded.    
+
+[17:18:10]  ===============================
+
+[17:18:10] plugin.mysql: Unloading plugin...
+[17:18:10] plugin.mysql: Plugin unloaded.
+[17:18:10]   MD5 v1.2 by BJIADOKC unloaded
+[17:18:10] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:20:33] filterscripts = ""  (string)
+[17:20:33] bind = ""  (string)
+[17:20:33] 
+[17:20:33] Server Plugins
+[17:20:33] --------------
+[17:20:33]  Loading plugin: dc_cmd
+[17:20:33]   Daniel's CMD plugin v2.8
+[17:20:33]     (c) 2014 Daniel_Cortez
+[17:20:33] 	www.pro-pawn.ru
+[17:20:33]   Loaded.
+[17:20:33]  Loading plugin: sscanf
+[17:20:33] 
+
+[17:20:33]  ===============================
+
+[17:20:33]       sscanf plugin loaded.     
+
+[17:20:33]          Version:  2.8.1        
+
+[17:20:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:20:33]  ===============================
+
+[17:20:33]   Loaded.
+[17:20:33]  Loading plugin: mysql
+[17:20:33]  >> plugin.mysql: R39-2 successfully loaded.
+[17:20:33]   Loaded.
+[17:20:33]  Loading plugin: md5
+[17:20:33]   MD5 v1.2 by BJIADOKC loaded
+[17:20:33]   Loaded.
+[17:20:33]  Loading plugin: streamer
+[17:20:33] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[17:20:33]   Loaded.
+[17:20:33]  Loaded 5 plugins.
+
+[17:20:33] 
+[17:20:33] Filterscripts
+[17:20:33] ---------------
+[17:20:33]   Loaded 0 filterscripts.
+
+[17:20:33] OnGameo
+[17:20:33] Подключение к Mysql | Удачно
+[17:20:33] Загружено биллбордов:      	50.
+[17:20:34] Загружено домов:      	0839
+[17:20:34] Загружено бизнесов:   	0126
+[17:20:34] Загружено авто: 		0120
+[17:20:34] Создано транспорта:  	0957
+[17:20:34] Создано объектов:    	21078
+[17:20:34] Создано гангзон:     	0101
+[17:20:34] _____________________________________________________________________
+[17:20:34]  Доработка мода By Andrew Degay
+[17:20:34]  Finegrip RP © 2016-2017 By Finegrip RP
+[17:20:34] _____________________________________________________________________
+[17:20:34] Number of vehicle models: 122
+[17:21:07] [connection] 127.0.0.1:56989 requests connection cookie.
+[17:21:08] [connection] incoming connection: 127.0.0.1:56989 id: 0
+[17:21:09] [connection] incoming connection: 127.0.0.1:56990 id: 0
+[17:21:09] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[17:22:31] [part] Kidra_Tanosa has left the server (0:1)
+[17:29:59] --- Server Shutting Down.
+[17:29:59] 	Все аккаунты сохранены
+[17:29:59] 	Все тачки сохранены
+[17:30:00] 	Все дома сохранены
+[17:30:00] 	Все бизнесы сохранены
+[17:30:00] 	Все отели сохранены
+[17:30:00] 	Все казино сохранены
+[17:30:00] 	mxmini [new] сохранен
+[17:30:00]   Daniel's CMD plugin got unloaded
+[17:30:00] 
+
+[17:30:00]  ===============================
+
+[17:30:00]      sscanf plugin unloaded.    
+
+[17:30:00]  ===============================
+
+[17:30:00] plugin.mysql: Unloading plugin...
+[17:30:00] plugin.mysql: Plugin unloaded.
+[17:30:00]   MD5 v1.2 by BJIADOKC unloaded
+[17:30:00] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:30:15] filterscripts = ""  (string)
+[17:30:15] bind = ""  (string)
+[17:30:15] 
+[17:30:15] Server Plugins
+[17:30:15] --------------
+[17:30:15]  Loading plugin: dc_cmd
+[17:30:15]   Daniel's CMD plugin v2.8
+[17:30:15]     (c) 2014 Daniel_Cortez
+[17:30:15] 	www.pro-pawn.ru
+[17:30:15]   Loaded.
+[17:30:15]  Loading plugin: sscanf
+[17:30:15] 
+
+[17:30:15]  ===============================
+
+[17:30:15]       sscanf plugin loaded.     
+
+[17:30:15]          Version:  2.8.1        
+
+[17:30:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:30:15]  ===============================
+
+[17:30:15]   Loaded.
+[17:30:15]  Loading plugin: mysql
+[17:30:15]  >> plugin.mysql: R39-2 successfully loaded.
+[17:30:15]   Loaded.
+[17:30:15]  Loading plugin: md5
+[17:30:15]   MD5 v1.2 by BJIADOKC loaded
+[17:30:15]   Loaded.
+[17:30:15]  Loading plugin: streamer
+[17:30:15] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[17:30:15]   Loaded.
+[17:30:15]  Loaded 5 plugins.
+
+[17:30:15] 
+[17:30:15] Filterscripts
+[17:30:15] ---------------
+[17:30:15]   Loaded 0 filterscripts.
+
+[17:30:15] OnGameo
+[17:30:15] Подключение к Mysql | Удачно
+[17:30:15] Загружено биллбордов:      	50.
+[17:30:16] Загружено домов:      	0839
+[17:30:16] Загружено бизнесов:   	0126
+[17:30:16] Загружено авто: 		0120
+[17:30:16] Создано транспорта:  	0957
+[17:30:16] Создано объектов:    	21078
+[17:30:16] Создано гангзон:     	0101
+[17:30:16] _____________________________________________________________________
+[17:30:16]  Доработка мода By Andrew Degay
+[17:30:16]  Finegrip RP © 2016-2017 By Finegrip RP
+[17:30:16] _____________________________________________________________________
+[17:30:16] Number of vehicle models: 122
+[17:30:30] --- Server Shutting Down.
+[17:30:30] 	Все аккаунты сохранены
+[17:30:30] 	Все тачки сохранены
+[17:30:31] 	Все дома сохранены
+[17:30:31] 	Все бизнесы сохранены
+[17:30:31] 	Все отели сохранены
+[17:30:31] 	Все казино сохранены
+[17:30:31] 	mxmini [new] сохранен
+[17:30:31]   Daniel's CMD plugin got unloaded
+[17:30:31] 
+
+[17:30:31]  ===============================
+
+[17:30:31]      sscanf plugin unloaded.    
+
+[17:30:31]  ===============================
+
+[17:30:31] plugin.mysql: Unloading plugin...
+[17:30:31] plugin.mysql: Plugin unloaded.
+[17:30:31]   MD5 v1.2 by BJIADOKC unloaded
+[17:30:31] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:33:02] filterscripts = ""  (string)
+[17:33:02] bind = ""  (string)
+[17:33:02] 
+[17:33:02] Server Plugins
+[17:33:02] --------------
+[17:33:02]  Loading plugin: dc_cmd
+[17:33:02]   Daniel's CMD plugin v2.8
+[17:33:02]     (c) 2014 Daniel_Cortez
+[17:33:02] 	www.pro-pawn.ru
+[17:33:02]   Loaded.
+[17:33:02]  Loading plugin: sscanf
+[17:33:02] 
+
+[17:33:02]  ===============================
+
+[17:33:02]       sscanf plugin loaded.     
+
+[17:33:02]          Version:  2.8.1        
+
+[17:33:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:33:02]  ===============================
+
+[17:33:02]   Loaded.
+[17:33:02]  Loading plugin: mysql
+[17:33:02]  >> plugin.mysql: R39-2 successfully loaded.
+[17:33:02]   Loaded.
+[17:33:02]  Loading plugin: md5
+[17:33:02]   MD5 v1.2 by BJIADOKC loaded
+[17:33:02]   Loaded.
+[17:33:02]  Loading plugin: streamer
+[17:33:02] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[17:33:02]   Loaded.
+[17:33:02]  Loaded 5 plugins.
+
+[17:33:02] 
+[17:33:02] Filterscripts
+[17:33:02] ---------------
+[17:33:02]   Loaded 0 filterscripts.
+
+[17:33:02] OnGameo
+[17:33:02] Подключение к Mysql | Удачно
+[17:33:02] Загружено биллбордов:      	50.
+[17:33:03] Загружено домов:      	0839
+[17:33:03] Загружено бизнесов:   	0126
+[17:33:03] Загружено авто: 		0120
+[17:33:03] Создано транспорта:  	0957
+[17:33:03] Создано объектов:    	21078
+[17:33:03] Создано гангзон:     	0101
+[17:33:03] _____________________________________________________________________
+[17:33:03]  Доработка мода By Andrew Degay
+[17:33:03]  Finegrip RP © 2016-2017 By Finegrip RP
+[17:33:03] _____________________________________________________________________
+[17:33:03] Number of vehicle models: 122
+[17:34:03] --- Server Shutting Down.
+[17:34:03] 	Все аккаунты сохранены
+[17:34:03] 	Все тачки сохранены
+[17:34:03] 	Все дома сохранены
+[17:34:03] 	Все бизнесы сохранены
+[17:34:04] 	Все отели сохранены
+[17:34:04] 	Все казино сохранены
+[17:34:04] 	mxmini [new] сохранен
+[17:34:04]   Daniel's CMD plugin got unloaded
+[17:34:04] 
+
+[17:34:04]  ===============================
+
+[17:34:04]      sscanf plugin unloaded.    
+
+[17:34:04]  ===============================
+
+[17:34:04] plugin.mysql: Unloading plugin...
+[17:34:04] plugin.mysql: Plugin unloaded.
+[17:34:04]   MD5 v1.2 by BJIADOKC unloaded
+[17:34:04] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:59] filterscripts = ""  (string)
+[17:34:59] bind = ""  (string)
+[17:34:59] 
+[17:34:59] Server Plugins
+[17:34:59] --------------
+[17:34:59]  Loading plugin: dc_cmd
+[17:34:59]   Daniel's CMD plugin v2.8
+[17:34:59]     (c) 2014 Daniel_Cortez
+[17:34:59] 	www.pro-pawn.ru
+[17:34:59]   Loaded.
+[17:34:59]  Loading plugin: sscanf
+[17:34:59] 
+
+[17:34:59]  ===============================
+
+[17:34:59]       sscanf plugin loaded.     
+
+[17:34:59]          Version:  2.8.1        
+
+[17:34:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:34:59]  ===============================
+
+[17:34:59]   Loaded.
+[17:34:59]  Loading plugin: mysql
+[17:34:59]  >> plugin.mysql: R39-2 successfully loaded.
+[17:34:59]   Loaded.
+[17:34:59]  Loading plugin: md5
+[17:34:59]   MD5 v1.2 by BJIADOKC loaded
+[17:34:59]   Loaded.
+[17:34:59]  Loading plugin: streamer
+[17:34:59] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[17:34:59]   Loaded.
+[17:34:59]  Loaded 5 plugins.
+
+[17:34:59] 
+[17:34:59] Filterscripts
+[17:34:59] ---------------
+[17:34:59]   Loaded 0 filterscripts.
+
+[17:34:59] OnGameo
+[17:34:59] Подключение к Mysql | Удачно
+[17:34:59] Загружено биллбордов:      	50.
+[17:35:00] Загружено домов:      	0839
+[17:35:00] Загружено бизнесов:   	0126
+[17:35:00] Загружено авто: 		0120
+[17:35:00] Создано транспорта:  	0957
+[17:35:00] Создано объектов:    	21078
+[17:35:00] Создано гангзон:     	0101
+[17:35:00] _____________________________________________________________________
+[17:35:00]  Доработка мода By Andrew Degay
+[17:35:00]  Finegrip RP © 2016-2017 By Finegrip RP
+[17:35:00] _____________________________________________________________________
+[17:35:00] Number of vehicle models: 122
+[17:35:53] [connection] 127.0.0.1:63543 requests connection cookie.
+[17:35:54] [connection] incoming connection: 127.0.0.1:63543 id: 0
+[17:35:55] [connection] incoming connection: 127.0.0.1:63544 id: 0
+[17:35:55] [join] Kidra_Tanosa has joined the server (0:127.0.0.1)
+[17:37:32] [part] Kidra_Tanosa has left the server (0:1)
+[17:37:58] --- Server Shutting Down.
+[17:37:58] 	Все аккаунты сохранены
+[17:37:58] 	Все тачки сохранены
+[17:37:58] 	Все дома сохранены
+[17:37:58] 	Все бизнесы сохранены
+[17:37:59] 	Все отели сохранены
+[17:37:59] 	Все казино сохранены
+[17:37:59] 	mxmini [new] сохранен
+[17:37:59]   Daniel's CMD plugin got unloaded
+[17:37:59] 
+
+[17:37:59]  ===============================
+
+[17:37:59]      sscanf plugin unloaded.    
+
+[17:37:59]  ===============================
+
+[17:37:59] plugin.mysql: Unloading plugin...
+[17:37:59] plugin.mysql: Plugin unloaded.
+[17:37:59]   MD5 v1.2 by BJIADOKC unloaded
+[17:37:59] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:41:00] filterscripts = ""  (string)
+[17:41:00] bind = ""  (string)
+[17:41:00] 
+[17:41:00] Server Plugins
+[17:41:00] --------------
+[17:41:00]  Loading plugin: dc_cmd
+[17:41:00]   Daniel's CMD plugin v2.8
+[17:41:00]     (c) 2014 Daniel_Cortez
+[17:41:00] 	www.pro-pawn.ru
+[17:41:00]   Loaded.
+[17:41:00]  Loading plugin: sscanf
+[17:41:00] 
+
+[17:41:00]  ===============================
+
+[17:41:00]       sscanf plugin loaded.     
+
+[17:41:00]          Version:  2.8.1        
+
+[17:41:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:41:00]  ===============================
+
+[17:41:00]   Loaded.
+[17:41:00]  Loading plugin: mysql
+[17:41:00]  >> plugin.mysql: R39-2 successfully loaded.
+[17:41:00]   Loaded.
+[17:41:00]  Loading plugin: md5
+[17:41:00]   MD5 v1.2 by BJIADOKC loaded
+[17:41:00]   Loaded.
+[17:41:00]  Loading plugin: streamer
+[17:41:00] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[17:41:00]   Loaded.
+[17:41:00]  Loaded 5 plugins.
+
+[17:41:00] 
+[17:41:00] Filterscripts
+[17:41:00] ---------------
+[17:41:00]   Loaded 0 filterscripts.
+
+[17:41:00] OnGameo
+[17:41:00] Подключение к Mysql | Удачно
+[17:41:00] Загружено биллбордов:      	50.
+[17:41:01] Загружено домов:      	0839
+[17:41:01] Загружено бизнесов:   	0126
+[17:41:01] Загружено авто: 		0120
+[17:41:01] Создано транспорта:  	0957
+[17:41:01] Создано объектов:    	21078
+[17:41:01] Создано гангзон:     	0101
+[17:41:01] _____________________________________________________________________
+[17:41:01]  Доработка мода By Andrew Degay
+[17:41:01]  Finegrip RP © 2016-2017 By Finegrip RP
+[17:41:01] _____________________________________________________________________
+[17:41:01] Number of vehicle models: 122

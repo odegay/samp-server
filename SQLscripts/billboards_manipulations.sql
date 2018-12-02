@@ -1,0 +1,3 @@
+-- SELECT * FROM finegriprp_db.billboards;
+-- UPDATE finegriprp_db.billboards SET bText = "Приветствуем в тестовой версии Finegrip RP!!!" WHERE newid < 60;
+-- UPDATE finegriprp_db.billboards SET bOwner = "-" WHERE newid = 1;

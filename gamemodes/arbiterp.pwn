@@ -1,4 +1,4 @@
-//АВТОР ДОРАБОТОК - SANYA - ЕСЛИ ТЫ СОЛЬЕШЬ ЭТОТ МОД И УДАЛИШЬ ЭТУ СТРОКУ ТО ТЫ ПИДОР :)
+// tEST
 #include <a_samp>
 #undef MAX_PLAYERS
 #define MAX_PLAYERS (103)
@@ -27,8 +27,8 @@ new Foreach_IDs[MAX_PLAYERS], Player_Num_IDs, PlayerNum[MAX_PLAYERS];
 //~~~~~~~~~~~~~~~~~~~~~~~~~[ Название сервера ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 #define NAMECONNECT "Finegrip RolePlay"                  //Название сервера при подключении
 #define NAME        "Finegrip RP"                  //Название сервера
-#define FULLNAME    "Finegrip RP | Basic | Обновление!"             //Полное название
-#define MODE        "Finegrip RP 2.1"              //Мод сервера который будет отображатся в Mode
+#define FULLNAME    "Finegrip RP | Alpha | Testing mode"             //Полное название
+#define MODE        "Finegrip RP 0.1"              //Мод сервера который будет отображатся в Mode
 #define NAMEICRP    "Finegrip"               //Название штата
 #define LOGO1       "F"                          //Логотип например тут A
 #define LOGO2       "inegrip"                      //Логотип например тут RIZONA
@@ -37,13 +37,13 @@ new Foreach_IDs[MAX_PLAYERS], Player_Num_IDs, PlayerNum[MAX_PLAYERS];
 #define MAILSERV    "regu.hoop@gmail.com"          //Почта сервера
 #define SITE        "www.oxota.kz"                           //Сайт сервера
 #define DONATESITE  "www.oxota.kz"     //Донат сайт
-#define GROUPVK     "vk.com" //Группа ВК
+#define GROUPVK     "https://vk.com/public174546581" //Группа ВК
 //~~~~~~~~~~~~~~~~~~~~~~~~~[ Бонус ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
-#define BONUSMONEY  "2500"                   //Деньги при регистрации
+#define BONUSMONEY  "100000"                   //Деньги при регистрации
 #define BONUSDONATE "0"                   //Донат при регистрации
 #define BONUSLVL    "1"                   //Уровень при регистрации
 //~~~~~~~~~~~~~~~~~~~~~~~~~[ Админ пароль ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
-#define ADMPASS      "6842"
+#define ADMPASS      "1"
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
 
@@ -389,7 +389,7 @@ new Language[55][langinfo]=
 	{"{0AD6FF}Всегда","{0AD6FF}Always"},//20
 	{"{AFAFAF}Никогда","{AFAFAF}Never"},//21
 	{"Настройки","Settings"},//22
-	{"Добро пожаловать на "NAMECONNECT"","Welcome to Arizona Project!"},//23
+	{"Добро пожаловать на "NAMECONNECT"","Welcome to Finegrip Project!"},//23 OLEGCHANGED
 	{"{ffffff}Добро пожаловать,{1a4b84} %s{FFFFFF}\n\n","{FFFFFF}Welcome, {205CA2}%s{FFFFFF}\n\n"},//24
 	{"Этот аккаунт {ff6347}не зарегистрирован {FFFFFF}на нашем серере.\n","This account {9EF2FF}is not registed {FFFFFF}on our server.\n"},//25"
 	{"Для регистрации введите пароль.\n","For registration enter password.\n"},//26
@@ -412,7 +412,7 @@ new Language[55][langinfo]=
 	{"На порталах","On the portals"},//43
 	{"В поисковике","Google"},//44
 	{"Другое","Other"},//45
-	{"[Совет] {FFFFFF}Благодарим вас за регистрацию на нашем сервере","[Help] {FFFFFF}Thank you for registration on Arizona Project"},//46
+	{"[Совет] {FFFFFF}Благодарим вас за регистрацию на нашем сервере","[Help] {FFFFFF}Thank you for registration on Finegrip Project"},//46 OLEGCHANGED
 	{"[Совет] {FFFFFF}Сейчас вам желательно добраться до мэрии и получить паспорт","[Help] {FFFFFF}Right now you need to reach City Hall and get passport"},//47
 	{"Приветствуем нового игрока нашего сервера: {FF9900}%s {FFFFFF}(ID: %i)","Congratulations to our new player"},//48
 
@@ -1225,8 +1225,8 @@ new Float:GunPos[47][3] =
 main()
 {
 	print("_____________________________________________________________________");
-	print(" Доработка мода By - Sanya -");
-	print(" "NAME" © 2016-2017 By Arbite RP");
+	print(" Доработка мода By Andrew Degay");
+	print(" "NAME" © 2016-2017 By Finegrip RP");
 	print("_____________________________________________________________________");
 }
 //----------Tir defines----------
@@ -7018,9 +7018,21 @@ public OnGameModeInit()
 	//ТУТ НИХУЯ НЕ МЕНЯЙ!!!! НАСТРОЙКИ БД В САМОМ НАЧАЛЕ МОДА!! ТАМ ГДЕ #DEFINE HOST И Т.Д ТУТ НИХУЯ НЕ ДЕЛАЙ!
 	mysql = mysql_connect(""HOST"", ""USER"", ""DATABASE"", ""PASSWORD"");
 
-	mysql_query(mysql, "SET CHARACTER SET cp1251"); // это для рухоста
+/*
+	mysql_query(mysql, "SET CHARACTER SET utf8"); //
+	//mysql_query(mysql, "SET CHARACTER SET cp1251"); // это для рухоста
 	mysql_function_query(mysql,"SET NAMES 'utf8'",false,"","");
-	mysql_function_query(mysql,"SET CHARACTER SET 'cp1251'",false,"","");
+	//mysql_function_query(mysql,"SET CHARACTER SET 'cp1251'",false,"","");
+	//mysql_function_query(mysql,"SET CHARACTER SET 'utf8'");
+	mysql_function_query(mysql,"SET CHARACTER SET 'utf8'",false,"","");
+*/
+
+ 	mysql_query(mysql, "SET CHARACTER SET 'utf8'");
+    mysql_query(mysql, "SET NAMES 'utf8'");
+    mysql_query(mysql, "SET character_set_client = 'cp1251'");
+    mysql_query(mysql, "SET character_set_connection = 'cp1251'");
+    mysql_query(mysql, "SET character_set_results = 'cp1251'");
+    mysql_query(mysql, "SET SESSION collation_connection = 'utf8_general_ci'");  
 
 	//****************************************
 
@@ -7055,6 +7067,7 @@ public OnGameModeInit()
 	Actor11[0] = CreateActor(3, 444.200225, 514.112182, 1001.419494,0.0); //BORDEL
 	ApplyActorAnimation(Actor11[0], "INT_SHOP", "shop_loop", 4.1, 1, 1, 1, 0, 0);
 	SetActorVirtualWorld(Actor11[0],1);
+	//OLEG MOVE TO SCRIPTS
 	if(GLS[66]==0)
 	{
 		mysql_query(mysql,"ALTER TABLE `ownable` ADD `OnNumber` TEXT CHARACTER SET cp1251 COLLATE cp1251_general_cs NOT NULL , ADD `Register` TEXT CHARACTER SET cp1251 COLLATE cp1251_general_cs NOT NULL , ADD `OnRegister` TEXT CHARACTER SET cp1251 COLLATE cp1251_general_cs NOT NULL",false);
@@ -15261,8 +15274,9 @@ Loadmap()
 	SetDynamicObjectMaterial(tmpobjid, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
 	tmpobjid = CreateDynamicObject(19173,1769.036,-1895.299,13.305,0.000,0.000,90.000,-1,-1,-1,300.000,300.000);
 	SetDynamicObjectMaterial(tmpobjid, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+	//OLEGCHANGED Likely here is the Arizona Sign
 	tmpobjid = CreateDynamicObject(19482,1769.054,-1895.493,13.494,0.000,0.000,0.000,-1,-1,-1,300.000,300.000);
-	SetDynamicObjectMaterialText(tmpobjid, 0, "Arizona", 130, "Calibri", 60, 0, 0xFF000000, 0x00000000, 1);
+	SetDynamicObjectMaterialText(tmpobjid, 0, "Finegrip", 130, "Calibri", 60, 0, 0xFF000000, 0x00000000, 1); //word Arizona changed w/Finegrip
 	tmpobjid = CreateDynamicObject(19482,1769.054,-1895.503,13.384,0.000,0.000,0.000,-1,-1,-1,300.000,300.000);
 	SetDynamicObjectMaterialText(tmpobjid, 0, "__________", 140, "Calibri", 60, 0, 0xFF000000, 0x00000000, 1);
 	tmpobjid = CreateDynamicObject(19482,1769.054,-1895.503,13.124,0.000,0.000,0.000,-1,-1,-1,300.000,300.000);
@@ -16583,10 +16597,12 @@ Loadmap()
 
 	park = CreateDynamicObjectEx(19482, 1479.522949, -1674.729492, 15.672686, 0.000000, 0.000000, -89.900230, 300.00, 300.00);
 	SetDynamicObjectMaterial(park, 0, 10101, "2notherbuildsfe", "Bow_Abpave_Gen", 0x00000000);
-	SetDynamicObjectMaterialText(park, 0, "Arizona", 130, "Ariel", 90, 0, 0xFFFFCC00, 0x00000000, 1);
+	//OLEGCHANGED Likely here is the Arizona Sign
+	SetDynamicObjectMaterialText(park, 0, "Finegrip RP", 130, "Ariel", 90, 0, 0xFFFFCC00, 0x00000000, 1); //word Arizona changed w/INFORMATION
 	park = CreateDynamicObjectEx(19482, 1479.522949, -1674.729492, 15.182684, 0.000000, 0.000000, -89.900230, 300.00, 300.00);
 	SetDynamicObjectMaterial(park, 0, 10101, "2notherbuildsfe", "Bow_Abpave_Gen", 0x00000000);
-	SetDynamicObjectMaterialText(park, 0, "{000000}ROLE PLAY", 130, "Ariel", 40, 0, 0xFF1383B4, 0x00000000, 1);
+	SetDynamicObjectMaterialText(park, 0, "{000000}***************", 130, "Ariel", 40, 0, 0xFF1383B4, 0x00000000, 1); //
+	SetDynamicObjectMaterialText(park, 0, "{000000}by Regu Hoop", 130, "Ariel", 40, 0, 0xFF1383B4, 0x00000000, 1);
 
 	park = CreateDynamicObjectEx(19438,1524.471,-1672.822,11.717,90.000,0.000,0.000,300.000,300.000);
 	SetDynamicObjectMaterial(park, 0, 16093, "a51_ext", "ws_whitewall2_top", 0);
@@ -26685,6 +26701,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	if(!strlen(inputtextsave)) inputtextsaveEx[0]='|'; else format(inputtextsaveEx, sizeof(inputtextsave), "%s", inputtextsave);
 	if(CallRemoteFunction("OnDialogResponseAUX","dddds", playerid, dialogid, response, listitem, inputtextsaveEx))return 1;
 	//-----------API------------
+	//OLEG REFACTORING URGENT
 	switch(dialogid)
     {
 		case 390:
@@ -46867,13 +46884,14 @@ OnPlayerRegister(playerid, password[])
 	mysql_tquery(mysql, query, "OnPlayerRegisterMysql", "d", playerid);
 	return 1;
 }
+//OLEG CHANGING
 forward OnPlayerRegisterMysql(playerid);
 public OnPlayerRegisterMysql(playerid)
 {
 	PlayerInfo[playerid][pID] = cache_insert_id(mysql);
 	printf("mysql Создание аккаунтa %s(%s)", PN(playerid), PlayerIP(playerid));
 	//aml(-3, playerid, "", PlayerIP(playerid),0);
-	//OnPlayerLogin(playerid);
+	OnPlayerLogin(playerid);
 	return true;
 }
 RemovePlayerAttachedObjectEx(playerid, index)
@@ -71158,7 +71176,7 @@ SettingSpawn(playerid)
 	{
 	    JJ_SetPlayerPos(playerid,1158.5834,-1770.2400,16.5938);
 	    SetPlayerVirtualWorld(playerid,1228);
-	    ShowPlayerDialogEx(playerid,0,0,"","{FFFFFF}Вы находитесь в мире читеров/нарушителей игрового процесса.\n\n{BE2D2D}От сюда нету выхода. Фактически ваш аккаунт забанен. Чтобы продолжить игру на нашем сервере\nВам необходимо скачать игровой клиент специально для игры на сервере!\nСкачать его можно по ссылке: {FFFFFF}arizona-rp.com/client{BE2D2D} затем в дальнейшем заходить в игру\nс помощью него!","Принять","");
+	    ShowPlayerDialogEx(playerid,0,0,"","{FFFFFF}Вы находитесь в мире читеров/нарушителей игрового процесса.\n\n{BE2D2D}От сюда нету выхода. Фактически ваш аккаунт забанен. Чтобы продолжить игру на нашем сервере\nВам необходимо скачать игровой клиент специально для игры на сервере!\nСкачать его можно по ссылке: {FFFFFF}oxota.kz/client{BE2D2D} затем в дальнейшем заходить в игру\nс помощью него!","Принять","");
 	    return 1;
 	}
 	*/
